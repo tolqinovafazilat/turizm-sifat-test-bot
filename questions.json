@@ -1,0 +1,6668 @@
+[
+  {
+    "id": 1,
+    "question": "Turistik xizmat sifati umumiy ma’noda nimani ifodalaydi?",
+    "options": [
+      {
+        "text": "Turist ehtiyojlari, kutishlari va xizmat standartlarining qondirilish darajasini ifodalaydi.",
+        "correct": true
+      },
+      {
+        "text": "Turistik korxonaning faqat moddiy resurslardan foydalanish darajasini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxonaning faqat tashqi ko‘rinishi va jihozlanish darajasini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik korxonaning faqat reklama va sotuv hajmini ifodalovchi ko‘rsatkich hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Turizmda sifatni baholashda turistning qaysi jihatlari muhim hisoblanadi?",
+    "options": [
+      {
+        "text": "Turistning ehtiyoji, kutishi va amalda olgan real tajribasi muhim hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Turistning kutishi, faqat mehmonxona narxi va reklama mazmuni asosiy mezon hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistning real tajribasi , faqat mehmonxona binosi va transport vositasini baholashi muhim hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistning ehtiyoji, faqat ekskursiya davomiyligi va xaridlar hajmini baholashi muhim hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Nima sababdan turizmda xizmat sifatini oldindan to‘liq baholash qiyin?",
+    "options": [
+      {
+        "text": "Turistik xizmatni iste’mol qilishdan oldin uning haqiqiy sifatini to‘liq ko‘rish qiyin bo‘ladi.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatni barcha holatlarda oldindan to‘liq ko‘rish va tekshirish mumkin bo‘ladi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatning barcha xususiyatlari faqat uning narxi orqali oldindan aniqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmat sifati faqat korxona tomonidan berilgan reklama orqali baholanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Turistik xizmatning nomoddiylik xususiyati nimani anglatadi?",
+    "options": [
+      {
+        "text": "Turistik xizmatni ushlab ko‘rish yoki moddiy mahsulot kabi omborga joylashtirish mumkin emasligini anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatni ishlab chiqarishdan oldin uning barcha xususiyatlarini fizik shaklda ko‘rsatish mumkinligini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatni iste’mol qilishdan keyin uni boshqa turistga saqlab berish mumkinligini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatning sifatini faqat korxona binosining tashqi ko‘rinishi orqali aniqlash mumkinligini anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Turizm xizmatlarining ajralmasligi qanday namoyon bo‘ladi?",
+    "options": [
+      {
+        "text": "Xizmatni ishlab chiqaruvchi va iste’molchi ko‘pincha xizmat ko‘rsatish jarayonida bir vaqtda ishtirok etadi.",
+        "correct": true
+      },
+      {
+        "text": "Xizmatni ishlab chiqaruvchi xizmatni turistdan mustaqil ravishda uzoq muddat saqlab turadi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmatni iste’molchi xizmat ko‘rsatish jarayonidan keyin alohida ishlab chiqarishni amalga oshiradi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmatni turist xizmat ko‘rsatuvchi xodimlardan butunlay mustaqil ravishda iste’mol qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Turizm xizmatlarining o‘zgaruvchanligi nimani bildiradi?",
+    "options": [
+      {
+        "text": "Bir xil korxonada xizmat sifati turli kunlarda va turli xodimlar ta’sirida farq qilishi mumkinligini bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "Bir xil korxonada xizmat sifati barcha kunlarda mutlaqo bir xil bo‘lishi kerakligini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmat sifati faqat korxonaning moddiy jihozlari bilan belgilanib, xodimlarga bog‘liq emasligini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmat sifati faqat turistning to‘lagan mablag‘i miqdoriga qarab o‘zgarishini bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Turizm xizmatlarining saqlab bo‘lmaslik xususiyati nimani anglatadi?",
+    "options": [
+      {
+        "text": "Foydalanilmagan xizmat quvvatini keyingi kunga aynan o‘sha ko‘rinishda saqlab bo‘lmasligini anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Foydalanilmagan mehmonxona xonalarini keyingi kun uchun ikki baravar hajmda saqlash mumkinligini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatni uzoq muddat omborga joylashtirib, keyinchalik istalgan vaqtda sotish mumkinligini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanilmagan transport o‘rinlarini keyingi davrga moddiy mahsulot sifatida saqlash mumkinligini anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Turistning xizmat haqidagi kutishi nimalar orqali shakllanishi mumkin?",
+    "options": [
+      {
+        "text": "Reklama, narx, mehmonxona kategoriyasi, brend, sharhlar va oldingi tajriba orqali shakllanishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Faqat narx, mehmonxona binosining kattaligi va undagi xonalar soni orqali shakllanishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Faqat turistik korxonaningi brendi, moliyaviy natijalari va xarajatlari orqali shakllanishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Faqat turistning mamlakatga kelganidan keyingi sharhlari, xaridlari va ekskursiyalari, mehmonxona kategoriyasi orqali shakllanishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Yuqori sifat turist uchun qanday natijani yuzaga keltirishi mumkin?",
+    "options": [
+      {
+        "text": "Yuqori sifat turist qoniqishi, ishonchi, qayta tashrifi va ijobiy tavsiyalarini oshirishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Yuqori sifat turistning korxona haqidagi salbiy fikrlarini ko‘paytirishi va qayta tashrifini kamaytirishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Yuqori sifat turistning xavfsizlik hissini pasaytirib, xizmatdan foydalanish istagini kamaytirishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Yuqori sifat turistning korxonani boshqa mijozlarga tavsiya qilish ehtimolini kamaytirishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Turistik destinatsiya sifati qanday elementlardan tashkil topadi?",
+    "options": [
+      {
+        "text": "Destinatsiya sifati mehmonxona, transport, restoran, ekskursiya, axborot, xavfsizlik va infratuzilmadan tashkil topadi.",
+        "correct": true
+      },
+      {
+        "text": "Destinatsiya sifati faqat restoran, transport, axborot, mehmonxonalar soni va ularning tashqi ko‘rinishidan tashkil topadi.",
+        "correct": false
+      },
+      {
+        "text": "Destinatsiya sifati faqat transport, tarixiy obidalar, ekskursiya, xavfsizlik va tabiiy resurslarning mavjudligi bilan belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Destinatsiya sifati faqat axborot, xavfsizlik, restoranlar va savdo obyektlarining xizmat ko‘rsatish darajasidan tashkil topadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Turizmda sifatning korxona uchun asosiy ahamiyati nimada?",
+    "options": [
+      {
+        "text": "Yuqori sifat qoniqish, sodiqlik, qayta tashrif, tavsiya, mijozlar soni va daromadning oshishiga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Yuqori sifat korxonaning mijozlar bilan aloqalarini kamaytirib, xizmatlardan foydalanish hajmini pasaytirishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Yuqori sifat faqat korxonaning reklama xarajatlarini ko‘paytirib, mijozlar soniga ta’sir qilmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Yuqori sifat korxonaning bozordagi obro‘sini pasaytirib, uzoq muddatli raqobatbardoshligini zaiflashtiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "SERVQUAL modelining asosiy g‘oyasi nimaga asoslanadi?",
+    "options": [
+      {
+        "text": "Xizmat sifati mijoz kutishi va real tajribasi o‘rtasidagi farqni baholash orqali aniqlanadi.",
+        "correct": true
+      },
+      {
+        "text": "Xizmat sifati faqat korxona rahbarining xizmat haqidagi ichki bahosi orqali aniqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat sifati faqat korxonaning moddiy bazasi va moliyaviy ko‘rsatkichlari orqali aniqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat sifati faqat turist tomonidan sarflangan mablag‘ miqdorini hisoblash orqali aniqlanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "SERVQUAL modelida xizmat sifati qanday ketma-ketlikda baholanadi?",
+    "options": [
+      {
+        "text": "Mijoz kutishi, xizmatni olish, real tajriba, taqqoslash va sifatga baho berish ketma-ketligida baholanadi.",
+        "correct": true
+      },
+      {
+        "text": "Korxona xarajati, reklama, sotuv, foyda va investitsiya ketma-ketligida xizmat sifati baholanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlar soni, bino hajmi, xona soni, narx va reklama ketma-ketligida xizmat sifati baholanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turist kelishi, xarid qilishi, ekskursiyaga borishi, ketishi va reklama qilishi ketma-ketligida baholanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "SERVQUAL modeli kim tomonidan ishlab chiqilgan?",
+    "options": [
+      {
+        "text": "SERVQUAL modeli A. Parasuraman, V. A. Zeithaml va L. L. Berry tomonidan ishlab chiqilgan.",
+        "correct": true
+      },
+      {
+        "text": "SERVQUAL modeli faqat Christian Grönroos tomonidan yakka tartibda ishlab chiqilgan.",
+        "correct": false
+      },
+      {
+        "text": "SERVQUAL modeli faqat turistik korxonalar menejerlari A. Parasuraman,L.M. Davidov va L. L. Berry tomonidan amaliy tajriba asosida ishlab chiqilgan.",
+        "correct": false
+      },
+      {
+        "text": "SERVQUAL modeli xalqaro turizm tashkilotlari ma’lumotlari, umumiy turizm statistikasi asosida V. A. Zeithaml, A. Parasuraman tomonidan ishlab chiqilgan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Turistik xizmat sifatini baholashda SERVQUAL modelining asosiy o‘lchami qaysi qatorda",
+    "options": [
+      {
+        "text": "SERVQUAL modelida moddiylik, ishonchlilik, tezkorlik, ishonch va empatiya kabi beshta o‘lcham ko‘rsatilgan.",
+        "correct": true
+      },
+      {
+        "text": "SERVQUAL modelida ishonchlilik, reklama, investitsiya, transport va tezkorlik kabi beshta o‘lcham ko‘rsatilgan.",
+        "correct": false
+      },
+      {
+        "text": "SERVQUAL modelida xavfsizlik, marketing, moddiylik, infratuzilma va eksport kabi beshta o‘lcham ko‘rsatilgan.",
+        "correct": false
+      },
+      {
+        "text": "SERVQUAL modelida mehmonxona, empatiya, transport, ekskursiya va xarid kabi beshta o‘lcham ko‘rsatilgan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "SERVQUAL modelidagi “moddiylik” tushunchasi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Moddiylik turist ko‘rishi va foydalanishi mumkin bo‘lgan xona, jihoz, bino va boshqa moddiy elementlarni anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Moddiylik faqat xodimlarning turist bilan muloqot qilish uslubi va muomala madaniyatini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Moddiylik faqat korxonaning va’dalarni belgilangan vaqtda bajarish qobiliyatini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Moddiylik faqat turistning individual ehtiyojlarini tushunish va unga mos xizmat ko‘rsatishni anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "SERVQUAL modelidagi “ishonchlilik” nimani bildiradi?",
+    "options": [
+      {
+        "text": "Ishonchlilik korxonaning va’da qilingan xizmatni belgilangan tarzda va ishonchli bajarish qobiliyatini bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "Ishonchlilik korxonaning faqat chiroyli bino va zamonaviy jihozlar bilan ta’minlanganligini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Ishonchlilik xodimlarning faqat turist bilan samimiy suhbatlashish qobiliyatini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Ishonchlilik turistlarning faqat individual ovqatlanish talablarini qondirish imkoniyatini bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "SERVQUAL modelidagi “tezkorlik” qanday mazmunga ega?",
+    "options": [
+      {
+        "text": "Tezkorlik mijoz murojaatiga tez javob berish va muammolarni imkon qadar tez hal qilishni anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Tezkorlik xizmat narxini oshirish va qo‘shimcha daromad olish jarayonini tezlashtirishni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Tezkorlik mehmonxonaning yangi xonalarni qurish jarayonini qisqa muddatda amalga oshirishini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Tezkorlik turistning mamlakat hududida xaridlarni imkon qadar tez amalga oshirishini anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "SERVQUAL modelidagi “ishonch uyg‘otish” qanday omillar bilan bog‘liq?",
+    "options": [
+      {
+        "text": "Ishonch uyg‘otish xodimlarning bilimi, malakasi, muomala madaniyati va xavfsizlik bo‘yicha bilimlari bilan bog‘liq.",
+        "correct": true
+      },
+      {
+        "text": "Ishonch uyg‘otish faqat mehmonxona binosining balandligi va xonalar sonining ko‘pligi bilan bog‘liq.",
+        "correct": false
+      },
+      {
+        "text": "Ishonch uyg‘otish faqat turistik xizmatlarning narxi va chegirmalar miqdorining yuqoriligi bilan bog‘liq",
+        "correct": false
+      },
+      {
+        "text": "Ishonch uyg‘otish faqat korxonaning reklama vositalaridan foydalanish darajasi bilan bog‘liq.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "SERVQUAL modelidagi “empatiya” tushunchasi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Empatiya turistning individual ehtiyojlarini tushunish va unga mos xizmat ko‘rsatishni anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Empatiya barcha turistlarga ehtiyojlaridan qat’i nazar bir xil xizmat ko‘rsatishni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Empatiya faqat korxona xodimlarining ish vaqtini qisqartirish orqali xizmatni tezlashtirishni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Empatiya faqat mehmonxonaning moddiy bazasini yangilash va jihozlarni almashtirishni anglatadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Grönroos yondashuvida xizmat sifati qanday ikki asosiy tarkibiy qismga ajratiladi?",
+    "options": [
+      {
+        "text": "Grönroos yondashuvida xizmat sifati texnik va funksional sifatga ajratiladi.",
+        "correct": true
+      },
+      {
+        "text": "Grönroos yondashuvida xizmat sifati moddiy va moliyaviy sifatga ajratiladi.",
+        "correct": false
+      },
+      {
+        "text": "Grönroos yondashuvida xizmat sifati marketing va reklama sifatiga ajratiladi.",
+        "correct": false
+      },
+      {
+        "text": "Grönroos yondashuvida xizmat sifati transport va infratuzilma sifatiga ajratiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Grönroos yondashuvida texnik sifat nimani bildiradi?",
+    "options": [
+      {
+        "text": "Texnik sifat mijoz xizmatdan foydalanish natijasida amalda qanday natijaga ega bo‘lganini bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "Texnik sifat xodimning mijoz bilan qanday ohangda va qanday usulda muloqot qilganini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Texnik sifat korxonaning turistga qanday reklama va marketing xabarlarini taqdim etganini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Texnik sifat turistning korxonaga nisbatan qanday hissiy munosabatda bo‘lganini bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Grönroos yondashuvida funksional sifat nimani bildiradi?",
+    "options": [
+      {
+        "text": "Funksional sifat xizmatning mijozga qanday usulda ko‘rsatilganini va jarayon qanday kechganini bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "Funksional sifat turist xizmatdan foydalanish natijasida qanday moddiy natijani olganini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Funksional sifat mehmonxonaning nechta xona va nechta xodimga ega ekanligini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Funksional sifat korxonaning xizmat uchun qanday narx belgilaganini va qancha daromad olganini bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Turistik xizmatda texnik sifatga qaysi holat misol bo‘la oladi?",
+    "options": [
+      {
+        "text": "Turistning toza xona, tayyor karavot, issiq suv, ishlaydigan konditsioner va Wi-Fi olishi texnik sifatdir.",
+        "correct": true
+      },
+      {
+        "text": "Turistning xodim tomonidan xushmuomalalik bilan kutib olinishi texnik sifatning asosiy natijasi hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistning muammosi xodim tomonidan samimiy suhbat orqali hal qilinishi texnik sifatni ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Turistning xizmat jarayonida o‘zini e’tiborda va qadrlangan his qilishi texnik sifatni ifodalaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Sifat menejmentining asosiy mazmuni nimadan iborat?",
+    "options": [
+      {
+        "text": "Sifat menejmenti xizmatni tasodifan emas, balki tizimli ravishda boshqarish va doimiy takomillashtirishga qaratiladi.",
+        "correct": true
+      },
+      {
+        "text": "Sifat menejmenti faqat turist shikoyat qilganidan keyin alohida muammoni bartaraf etishga qaratiladi.",
+        "correct": false
+      },
+      {
+        "text": "Sifat menejmenti faqat korxonaning reklama faoliyatini kuchaytirish va yangi mijozlarni jalb qilishga qaratiladi.",
+        "correct": false
+      },
+      {
+        "text": "Sifat menejmenti faqat xizmat ko‘rsatish uchun zarur bo‘lgan moddiy resurslarni ko‘paytirishga qaratiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "PDCA siklining asosiy maqsadi nima?",
+    "options": [
+      {
+        "text": "PDCA xizmat yoki jarayonni rejalashtirish, bajarish, tekshirish va doimiy takomillashtirishga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "PDCA xizmatni faqat bir marta rejalashtirib, keyinchalik uni o‘zgartirmasdan davom ettirishga xizmat qiladi",
+        "correct": false
+      },
+      {
+        "text": "PDCA faqat turistlarning shikoyatlarini ro‘yxatga olish va ularni moliyaviy kompensatsiya qilishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "PDCA faqat korxonaning reklama va marketing faoliyatini rejalashtirish va nazorat qilishga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "PDCA siklidagi “P” bosqichi nimani anglatadi?",
+    "options": [
+      {
+        "text": "“P” bosqichi muammoni aniqlash va nima qilish kerakligini rejalashtirish bosqichini anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "“P” bosqichi rejaning natijasini yakuniy tekshirish va baholash bosqichini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "“P” bosqichi xizmat natijasini turistlar o‘rtasida taqqoslash va baholash bosqichini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "“P” bosqichi aniqlangan muammoni yakuniy standart sifatida tasdiqlash bosqichini anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "PDCA siklidagi “D” bosqichi qanday amalga oshiriladi?",
+    "options": [
+      {
+        "text": "“D” bosqichida reja amalda sinab ko‘riladi va belgilangan choralar bajariladi.",
+        "correct": true
+      },
+      {
+        "text": "“D” bosqichida muammo faqat nazariy jihatdan tahlil qilinib, amaliy choralar ko‘rilmaydi.",
+        "correct": false
+      },
+      {
+        "text": "“D” bosqichida natija o‘lchanib, mavjud ko‘rsatkichlar avvalgi natijalar bilan taqqoslanadi.",
+        "correct": false
+      },
+      {
+        "text": "“D” bosqichida yangi standart belgilanib, sifat jarayoni yakunlangan deb hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "PDCA siklidagi “C” bosqichining vazifasi nima?",
+    "options": [
+      {
+        "text": "“C” bosqichida natija o‘lchanadi va rejalashtirilgan ko‘rsatkich bilan taqqoslanadi.",
+        "correct": true
+      },
+      {
+        "text": "“C” bosqichida yangi xizmat standarti ishlab chiqilib, jarayonni takomillashtirish boshlanadi.",
+        "correct": false
+      },
+      {
+        "text": "“C” bosqichida muammo aniqlanib, uni bartaraf etish bo‘yicha dastlabki reja tuziladi.",
+        "correct": false
+      },
+      {
+        "text": "“C” bosqichida reja amalda sinab ko‘rilib, xodimlarga yangi vazifalar taqsimlanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "PDCA siklidagi “A” bosqichining asosiy mazmuni nimadan iborat?",
+    "options": [
+      {
+        "text": "“A” bosqichida natijaga qarab tuzatish kiritiladi va zarur bo‘lsa yangi standart yaratiladi.",
+        "correct": true
+      },
+      {
+        "text": "“A” bosqichida faqat muammo aniqlanib, keyingi choralarni rejalashtirish bilan jarayon yakunlanadi.",
+        "correct": false
+      },
+      {
+        "text": "“A” bosqichida xizmatning dastlabki natijasi o‘lchanib, reja hali amalga oshirilmasdan baholanadi.",
+        "correct": false
+      },
+      {
+        "text": "“A” bosqichida turistlarning ehtiyojlari aniqlanib, xizmat ko‘rsatishning dastlabki maqsadlari belgilanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Mehmonxonada check-in vaqtini kamaytirishga qaratilgan PDCA misolida dastlabki kutish",
+    "options": [
+      {
+        "text": "Mehmonxonada turistlarning dastlabki o‘rtacha kutish vaqti 15 daqiqa bo‘lgan.",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxonada turistlarning dastlabki o‘rtacha kutish vaqti 10 daqiqa bo‘lgan.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxonada turistlarning dastlabki o‘rtacha kutish vaqti 7 daqiqa bo‘lgan.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxonada turistlarning dastlabki o‘rtacha kutish vaqti 5 daqiqa bo‘lgan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "PDCA misolida check-in vaqtini kamaytirish uchun qanday maqsad belgilangan?",
+    "options": [
+      {
+        "text": "Check-in vaqtini 15 daqiqadan 5 daqiqagacha kamaytirish maqsadi belgilangan.",
+        "correct": true
+      },
+      {
+        "text": "Check-in vaqtini 15 daqiqadan 12 daqiqagacha kamaytirish maqsadi belgilangan.",
+        "correct": false
+      },
+      {
+        "text": "Check-in vaqtini 10 daqiqadan 8 daqiqagacha kamaytirish maqsadi belgilangan.",
+        "correct": false
+      },
+      {
+        "text": "Check-in vaqtini 7 daqiqadan 6 daqiqagacha kamaytirish maqsadi belgilangan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Turizmda xavfsizlik tushunchasi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Xavfsizlik turistning hayoti, sog‘lig‘i, mol-mulki va shaxsiy ma’lumotlarini xavflardan himoya qilish holatidir.",
+        "correct": true
+      },
+      {
+        "text": "Xavfsizlik faqat turistning mol-mulkini yo‘qotishdan himoya qilish bilan cheklanadigan faoliyat hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlik faqat mehmonxona binosini texnik jihatdan himoya qilish bilan bog‘liq bo‘lgan jarayon hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlik faqat turistning safar vaqtida jismoniy jarohat olmasligini nazorat qilish bilan bog‘liq hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Turizmda xavfsizlikni ta’minlashning asosiy ketma-ketligi qanday?",
+    "options": [
+      {
+        "text": "Xavfni aniqlash, baholash, oldini olish, nazorat qilish va favqulodda vaziyatda to‘g‘ri harakat qilishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Xavfni yashirish, hodisani kutish, kompensatsiya berish, hujjatlarni yopish va jarayonni tugatishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xavfni baholamaslik, hodisa sodir bo‘lishini kutish, zarar hisoblash va keyin choralar ko‘rishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xavfni reklama qilmaslik, turistga xabar bermaslik, xizmatni davom ettirish va keyinchalik muammoni ko‘rib chiqishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Qaysi holat turizmda jismoniy xavfsizlikka tegishli?",
+    "options": [
+      {
+        "text": "Turist hayoti va sog‘lig‘ini himoya qilish hamda xavfli hududlarda xavfsiz harakatlanishini ta’minlash jismoniy xavfsizlikka tegishlidir.",
+        "correct": true
+      },
+      {
+        "text": "Turistning pasport ma’lumotlarini himoya qilish va elektron to‘lovlarini nazorat qilish jismoniy xavfsizlikka tegishlidir.",
+        "correct": false
+      },
+      {
+        "text": "Turistga taqdim etiladigan oziq-ovqat mahsulotlarining yaroqlilik muddatini tekshirish jismoniy xavfsizlikka tegishlidir.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxonadagi sanitariya vositalari va xona tozaligini muntazam nazorat qilish jismoniy xavfsizlikka tegishlidir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Oziq-ovqat xavfsizligini ta’minlashda nima muhim hisoblanadi?",
+    "options": [
+      {
+        "text": "Xom va tayyor mahsulotlarni ajratish, sanitariya holatini nazorat qilish va oziq-ovqat xavflarini oldindan baholash muhim hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat restoran taomlarining mazali bo‘lishi va menyuning kengligi oziq-ovqat xavfsizligini ta’minlash uchun yetarli hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat restoran interyeri va xizmat ko‘rsatuvchi xodimlarning tashqi ko‘rinishi oziq-ovqat xavfsizligini ta’minlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat turist shikoyat qilgandan keyin unga kompensatsiya to‘lash oziq-ovqat xavfsizligini ta’minlashning asosiy usuli hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Nima uchun xavfsiz bo‘lmagan xizmatni yuqori sifatli deb bo‘lmaydi?",
+    "options": [
+      {
+        "text": "Chunki xizmat sifati tarkibida turistning hayoti, sog‘lig‘i va manfaatlarini himoya qiluvchi xavfsizlik talablari ham mavjud.",
+        "correct": true
+      },
+      {
+        "text": "Chunki xizmat sifati faqat turistning xizmat narxidan qoniqishi va korxona foydasining oshishi bilan belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Chunki xavfsizlik faqat transport xizmatlariga tegishli bo‘lib, boshqa turistik xizmatlarning sifatiga ta’sir qilmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Chunki xavfsizlik xizmat sifatidan alohida bo‘lib, turistning umumiy xizmat tajribasiga ta’sir ko‘rsatmaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Riskni soddalashtirilgan tarzda qanday ifodalash mumkin?",
+    "options": [
+      {
+        "text": "Risk ehtimollik va oqibat ko‘rsatkichlarining ko‘paytmasi sifatida soddalashtirib baholanishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Risk faqat xavfning sodir bo‘lish ehtimolini hisoblash orqali soddalashtirib baholanishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Risk faqat xavf natijasida yuzaga keladigan moliyaviy zarar miqdorini hisoblash orqali baholanishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Risk faqat korxonaning xavfsizlik uchun ajratgan mablag‘larini hisoblash orqali soddalashtirib baholanishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Turistik avtobus bilan bog‘liq xavfni oldindan baholashda qaysi omillar tekshirilishi kerak?",
+    "options": [
+      {
+        "text": "Haydovchi holati, transportning texnik holati, yo‘nalish, ob-havo va yo‘l sharoiti oldindan baholanishi kerak.",
+        "correct": true
+      },
+      {
+        "text": "Faqat avtobusning tashqi ko‘rinishi, o‘rindiqlar soni va turistlarning joylashuvi oldindan baholanishi kerak.",
+        "correct": false
+      },
+      {
+        "text": "Faqat haydovchining ish staji va avtobusning ishlab chiqarilgan yili oldindan baholanishi kerak.",
+        "correct": false
+      },
+      {
+        "text": "Faqat turistlarning soni, ekskursiya davomiyligi va turistik obyektlarning joylashuvi oldindan baholanishi kerak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "ISO 9001 standarti qanday yo‘nalish bilan bog‘langan?",
+    "options": [
+      {
+        "text": "ISO 9001 sifat menejmenti tizimiga tegishli xalqaro standart sifatida xizmatlarni tizimli boshqarishga yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "ISO 9001 faqat mehmonxonalardagi oziq-ovqat xavfsizligini boshqarishga mo‘ljallangan xalqaro standart hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 9001 faqat joylashtirish vositalarida barqarorlik va ekologik mas’uliyatni boshqarishga mo‘ljallangan standart hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 9001 faqat turistlarning shaxsiy ma’lumotlarini elektron tizimlarda himoya qilishga mo‘ljallangan standart hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "ISO 22000 standarti qaysi yo‘nalishga tegishli?",
+    "options": [
+      {
+        "text": "ISO 22000 oziq-ovqat xavfsizligi menejmenti tizimiga tegishli xalqaro standart hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "ISO 22000 mehmonxonalarda xizmat ko‘rsatish sifatini umumiy baholashga mo‘ljallangan xalqaro standart hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 22000 joylashtirish vositalarida barqarorlik menejmentini boshqarishga mo‘ljallangan xalqaro standart hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 22000 turistlarning individual ehtiyojlarini aniqlash va xizmatlarni shaxsiylashtirishga mo‘ljallangan xalqaro standart hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "ISO 21401 standarti qaysi yo‘nalish bilan bog‘langan?",
+    "options": [
+      {
+        "text": "ISO 21401 joylashtirish vositalarida barqarorlik menejmenti bilan bog‘liq xalqaro standart hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "ISO 21401 restoranlarda oziq-ovqat xavfsizligini boshqarish bilan bog‘liq xalqaro standart hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 21401 mehmonxonalarda xizmat ko‘rsatish tezligini o‘lchash bilan bog‘liq xalqaro standart hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 21401 turistlarning shaxsiy ma’lumotlarini himoya qilish bilan bog‘liq xalqaro standart hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Mehmonxonada turist konditsioner ishlamayotganidan shikoyat qilsa, sifat menejmentiga",
+    "options": [
+      {
+        "text": "Muammoni tezda hal qilish va zarur bo‘lsa turistga boshqa xona taklif qilish orqali xizmat muammosini bartaraf etish kerak.",
+        "correct": true
+      },
+      {
+        "text": "Muammoni keyingi kunga qoldirib, turistga texnik xodim bo‘shaganidan keyin xizmat ko‘rsatilishini bildirish kerak.",
+        "correct": false
+      },
+      {
+        "text": "Muammoni faqat turistga kompensatsiya to‘lash orqali hal qilib, uning kelib chiqish sababini o‘rganmaslik kerak.",
+        "correct": false
+      },
+      {
+        "text": "Muammoni turistning shaxsiy talabi deb hisoblab, korxonaning xizmat jarayonlarini qayta ko‘rib chiqmaslik kerak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Sifat menejmentida shikoyatni bartaraf etishdan keyingi muhim vazifa nima?",
+    "options": [
+      {
+        "text": "Muammoning takrorlanishiga sabab bo‘layotgan asosiy sababni aniqlash va uni tizimli ravishda bartaraf etish muhimdir.",
+        "correct": true
+      },
+      {
+        "text": "Muammo bartaraf etilgach, uning sababi bilan shug‘ullanmasdan xizmatni odatdagi tartibda davom ettirish muhimdir.",
+        "correct": false
+      },
+      {
+        "text": "Muammo bartaraf etilgach, faqat turistga berilgan kompensatsiya miqdorini hisoblash muhim vazifa hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Muammo bartaraf etilgach, faqat xodimning individual xatosini qayd etish va boshqa choralarni ko‘rmaslik muhimdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Turizmda xodimning xizmat sifati uchun ahamiyati nimada?",
+    "options": [
+      {
+        "text": "Xodimning bilimli, xushmuomala, tezkor va mas’uliyatli bo‘lishi turistning xizmat sifatiga bergan bahosiga ta’sir qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Xodimning xatti-harakati xizmat sifatiga ta’sir qilmaydi, chunki xizmat sifati faqat moddiy jihozlar bilan belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimning malakasi faqat korxonaning ichki boshqaruviga ta’sir qiladi va turist tajribasiga bevosita ta’sir qilmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimning muomala madaniyati faqat restoran xizmatlarida muhim bo‘lib, boshqa turistik xizmatlarda ahamiyatga ega emas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Turizmda sifatni boshqarishda raqamlashtirishning qanday afzalligi ko‘rsatilgan?",
+    "options": [
+      {
+        "text": "Raqamli yechimlar xizmatlarni tezlashtirish, turist fikrini olish, xizmatlarni shaxsiylashtirish va qoniqishni oshirishga yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "Raqamli yechimlar faqat korxonaning reklama xarajatlarini oshirib, xizmat sifatini baholash imkoniyatini kamaytiradi.",
+        "correct": false
+      },
+      {
+        "text": "Raqamli yechimlar xodimlar bilan turistlar o‘rtasidagi barcha aloqalarni bekor qilib, inson omilini butunlay yo‘qotadi.",
+        "correct": false
+      },
+      {
+        "text": "Raqamli yechimlar faqat to‘lovlarni amalga oshirish uchun xizmat qilib, turistning umumiy tajribasiga ta’sir qilmaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Turizmda raqamli sifat boshqarish vositalariga qaysi yechimlar kiradi?",
+    "options": [
+      {
+        "text": "Mobil check-in, QR orqali fikr olish, sun’iy intellektli suhbat yordamchisi va mijozlar bilan munosabatlarni boshqarish tizimi kiradi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat televizor, telefon, konditsioner va xona jihozlari turizmda raqamli sifat boshqarish vositalari hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat reklama bannerlari, bosma kataloglar, bukletlar va an’anaviy axborot stendlari raqamli vositalar hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat transport vositalari, restoran stollari, xona mebellari va sanitariya jihozlari raqamli vositalar hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Turistik xizmat sifatini boshqarishda KPIlardan foydalanishning asosiy maqsadi nima?",
+    "options": [
+      {
+        "text": "KPIlar xizmat natijalarini o‘lchash, muammolarni aniqlash va xizmat faoliyatini boshqarishga yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "KPIlar faqat korxonaning umumiy daromadini hisoblash uchun ishlatiladi va xizmat sifatiga aloqador bo‘lmaydi.",
+        "correct": false
+      },
+      {
+        "text": "KPIlar faqat xodimlar sonini aniqlash uchun ishlatiladi va turistlarning xizmat haqidagi fikrini hisobga olmaydi.",
+        "correct": false
+      },
+      {
+        "text": "KPIlar faqat reklama samaradorligini baholash uchun ishlatiladi va xizmat ko‘rsatish jarayonini aks ettirmaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Sifatli va xavfsiz turizmning yakuniy natijasi qanday ifodalanadi?",
+    "options": [
+      {
+        "text": "Sifatli va xavfsiz xizmat qoniqqan turist, qayta tashrif, yuqori daromad va raqobatbardoshlikni ta’minlashga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Sifatli va xavfsiz xizmat faqat turistlarning bir martalik tashrifini va korxonaning qisqa muddatli reklamasini ta’minlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Sifatli va xavfsiz xizmat faqat korxonaning xarajatlarini oshirib, turistlarning qoniqishiga sezilarli ta’sir ko‘rsatmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Sifatli va xavfsiz xizmat faqat korxonaning ichki jarayonlarini yaxshilab, destinatsiyaning umumiy rivojlanishiga ta’sir qilmaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Normativ hujjatlar talablari o‘zaro zid kelgan holatlarda qaysi talab ustuvor hisoblanadi?",
+    "options": [
+      {
+        "text": "xalqaro standartlar talablari;",
+        "correct": true
+      },
+      {
+        "text": "davlat standartlari talablari;",
+        "correct": false
+      },
+      {
+        "text": "mintaqaviy standartlar talablari;",
+        "correct": false
+      },
+      {
+        "text": "korxona ichki standartlari talablari.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Turistik faoliyat qaysi hujjatga muvofiq tartibga solinadi?",
+    "options": [
+      {
+        "text": "Qonun",
+        "correct": true
+      },
+      {
+        "text": "Kodeks",
+        "correct": false
+      },
+      {
+        "text": "Hujjat (Akt)",
+        "correct": false
+      },
+      {
+        "text": "Tartib",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Mahsulot yoki xizmatning sifatga qoʻyiladigan muayyan talablarga javob berishiga ishonch",
+    "options": [
+      {
+        "text": "mahsulot yoki xizmatning belgilangan sifat talablariga muvofiqligini kafolatlashga qaratilgan tizimli tadbirlar majmui- Sifatni ta’minlashdir.",
+        "correct": true
+      },
+      {
+        "text": "mahsulot yoki xizmat sifatini rejalashtirish, boshqarish, nazorat qilish va doimiy yaxshilashga qaratilgan faoliyat tizimi- Sifatni ta’minlashdir.",
+        "correct": false
+      },
+      {
+        "text": "muayyan natijaga erishish uchun o‘zaro bog‘liq faoliyatlar va amallar ketma-ketligi- Sifatni ta’minlashdir.",
+        "correct": false
+      },
+      {
+        "text": "iste’molchining ehtiyoj va talablarini qondirishga qaratilgan, muayyan foyda keltiruvchi faoliyat natijasi- Sifatni ta’minlashdir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Sifatni boshqarishga tizimli yondashuv muallifi kim?",
+    "options": [
+      {
+        "text": "A. Feygenbaum",
+        "correct": true
+      },
+      {
+        "text": "V. Shuxart",
+        "correct": false
+      },
+      {
+        "text": "J. Juran",
+        "correct": false
+      },
+      {
+        "text": "G. Ford",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Sifatni boshqarishga jarayonli yondashuv asoschisi:",
+    "options": [
+      {
+        "text": "V. Shuxart",
+        "correct": true
+      },
+      {
+        "text": "A. Feygenbaum",
+        "correct": false
+      },
+      {
+        "text": "J. Juran",
+        "correct": false
+      },
+      {
+        "text": "G. Ford",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Tashkilotga rahbarlik qilish va uni boshqarish boʻyicha muvofiqlashtirilgan harakat:",
+    "options": [
+      {
+        "text": "Menejment",
+        "correct": true
+      },
+      {
+        "text": "Mahsulot",
+        "correct": false
+      },
+      {
+        "text": "Jarayon",
+        "correct": false
+      },
+      {
+        "text": "Xizmat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Sifat sohasida aniq maqsadga ega boʻlish zarurligini belgilaydigan sifatni boshqarish",
+    "options": [
+      {
+        "text": "Maqsadga yoʻnaltirilganlik",
+        "correct": true
+      },
+      {
+        "text": "Rejalilik",
+        "correct": false
+      },
+      {
+        "text": "Tizimlilik",
+        "correct": false
+      },
+      {
+        "text": "Komplekslilik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Sifat menejmentining sifat talablarini bajarishga qaratilgan qismi:",
+    "options": [
+      {
+        "text": "Sifatni boshqarish",
+        "correct": true
+      },
+      {
+        "text": "Sifatni taʼminlash",
+        "correct": false
+      },
+      {
+        "text": "Sifat kafolati",
+        "correct": false
+      },
+      {
+        "text": "Sifatni yaxshilash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Standartlashtirish obyektiga nisbatan belgilangan qoidalar va talablarni o‘z ichiga olgan",
+    "options": [
+      {
+        "text": "Standart",
+        "correct": true
+      },
+      {
+        "text": "Sertifikatlashtirish usuli",
+        "correct": false
+      },
+      {
+        "text": "Sertifikatlashtirish tizimi",
+        "correct": false
+      },
+      {
+        "text": "Standardlashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Kompleks tushuncha, korxona faoliyatining tovarlar, mahsulotlar (moddiy shaklga ega) va",
+    "options": [
+      {
+        "text": "Mahsulot",
+        "correct": true
+      },
+      {
+        "text": "Korxona sifati",
+        "correct": false
+      },
+      {
+        "text": "Marketing",
+        "correct": false
+      },
+      {
+        "text": "Menejment",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Tashkilotning sifatga nisbatan oliy rahbariyat tomonidan rasman bildirilgan umumiy niyatlari",
+    "options": [
+      {
+        "text": "Sifat siyosati",
+        "correct": true
+      },
+      {
+        "text": "Sifat kafolati",
+        "correct": false
+      },
+      {
+        "text": "Sifat toʻgaragi",
+        "correct": false
+      },
+      {
+        "text": "Sifat nazorati",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Sifat talablarini bajarish uchun foydalaniladigan operatsion usullar va harakatlar bu – ...?",
+    "options": [
+      {
+        "text": "Sifat nazorati",
+        "correct": true
+      },
+      {
+        "text": "Sifatni boshqarish",
+        "correct": false
+      },
+      {
+        "text": "Sifat kafolati",
+        "correct": false
+      },
+      {
+        "text": "Sifat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Mahsulot yoki xizmatning xaridorning belgilangan yoki ko‘zda tutilgan ehtiyojlarini",
+    "options": [
+      {
+        "text": "Sifat",
+        "correct": true
+      },
+      {
+        "text": "Sifat siyosati",
+        "correct": false
+      },
+      {
+        "text": "Muvofiqlik",
+        "correct": false
+      },
+      {
+        "text": "Sifatni boshqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Mahsulot yoki xizmat mijoz talablarini qondirishiga yetarlicha ishonch hosil qilish uchun",
+    "options": [
+      {
+        "text": "Sifat kafolati (taʼminoti)",
+        "correct": true
+      },
+      {
+        "text": "Muvofiqlik",
+        "correct": false
+      },
+      {
+        "text": "Sifat toʻgaragi",
+        "correct": false
+      },
+      {
+        "text": "Sifatni boshqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Nima uchun mijozlarga xizmat koʻrsatish sifatining dolzarbligi oshib bormoqda?",
+    "options": [
+      {
+        "text": "Sektorning katta qismi bu yoʻnalishda ishlamayotganligi sababli.",
+        "correct": true
+      },
+      {
+        "text": "ISO normalari paydo boʻlganligi sababli.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoqda boshqa xaridorlarni choʻchitishi mumkin boʻlgan sharhlar mavjudligi sababli.",
+        "correct": false
+      },
+      {
+        "text": "Jurnalistlar mehmonxona sanoatini zaif qoldirib, koʻproq xizmat koʻrsatish sifatiga eʼtibor qaratayotgani sababli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Mehmon tajribasidan qanchalik mamnun boʻlganini aniqlash uchun ishlatiladigan oʻlchov va",
+    "options": [
+      {
+        "text": "Mehmonlarning qoniqqanligi",
+        "correct": true
+      },
+      {
+        "text": "Mijozlarga xizmat koʻrsatish",
+        "correct": false
+      },
+      {
+        "text": "Mijozlar tajribasi",
+        "correct": false
+      },
+      {
+        "text": "Mijozlar minnatdorchiligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Mehmonxona sohasida ISO 9001 standarti nimani anglatadi?",
+    "options": [
+      {
+        "text": "Xizmat koʻrsatish sifatini boshqarish tizimi",
+        "correct": true
+      },
+      {
+        "text": "Mehnatni muhofaza qilish standartlari",
+        "correct": false
+      },
+      {
+        "text": "Foyda haqidagi moliyaviy hisobot",
+        "correct": false
+      },
+      {
+        "text": "Xalqaro sanitariya normalari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Quyidagi omillardan qaysi biri mehmonxonada xizmat koʻrsatish sifatini taʼminlashning",
+    "options": [
+      {
+        "text": "Xodimlarning professionalizmi",
+        "correct": true
+      },
+      {
+        "text": "Mintaqaning iqlim sharoiti",
+        "correct": false
+      },
+      {
+        "text": "Shahardagi turistlar soni",
+        "correct": false
+      },
+      {
+        "text": "Davlat subsidiyalari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Mehmonxonada «yashash xavfsizligi» tushunchasiga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Yongʻinga qarshi tizim, qoʻriqlash, kuzatuv kameralari",
+        "correct": true
+      },
+      {
+        "text": "Faqat xonalarni yigʻishtirish",
+        "correct": false
+      },
+      {
+        "text": "Bepul Wi-Fi",
+        "correct": false
+      },
+      {
+        "text": "Konditsioner mavjudligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Mehmonxona xavfsizlik tizimlarida qaysi xalqaro standart eng koʻp qoʻllaniladi?",
+    "options": [
+      {
+        "text": "ISO 45001",
+        "correct": true
+      },
+      {
+        "text": "ISO 26000",
+        "correct": false
+      },
+      {
+        "text": "ISO 17025",
+        "correct": false
+      },
+      {
+        "text": "ISO 13485",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Mehmonxonada «Yashirin mehmon» (Mystery Guest) tizimi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Anonim tekshiruv orqali xizmatlar sifatini baholash",
+        "correct": true
+      },
+      {
+        "text": "Shaxsiy maʼlumotlari yopiq mehmonlar hisobi",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxonaga mashhur shaxsning tashrifi",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarni yashirin kuzatish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Mehmonxonada sifat menejmenti tizimining maqsadi nima?",
+    "options": [
+      {
+        "text": "Xizmat koʻrsatish darajasini uzluksiz yaxshilash",
+        "correct": true
+      },
+      {
+        "text": "Soliqlarni kamaytirish",
+        "correct": false
+      },
+      {
+        "text": "Shtatni qisqartirish",
+        "correct": false
+      },
+      {
+        "text": "Narxlar roʻyxatini oshirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Quyidagilardan qaysi biri mehmonxona xizmati sifatining nomoddiy elementiga kiradi?",
+    "options": [
+      {
+        "text": "Xodimlarning xushfe'lligi va xushmuomalaligi",
+        "correct": true
+      },
+      {
+        "text": "Krovatning oʻlchami",
+        "correct": false
+      },
+      {
+        "text": "Choyshablarni almashtirish chastotasi",
+        "correct": false
+      },
+      {
+        "text": "Sanuzel maydoni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Mehmonxona biznesida xavfsizlikka qaysi yondashuv eng zamonaviy hisoblanadi?",
+    "options": [
+      {
+        "text": "Proaktiv xavf-xatarlarni boshqarish (risk-menejment)",
+        "correct": true
+      },
+      {
+        "text": "Zirhli eshiklarni oʻrnatish",
+        "correct": false
+      },
+      {
+        "text": "Xonalarni kalitga yopib qoʻyish",
+        "correct": false
+      },
+      {
+        "text": "Qoʻriqchilar sonini oshirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Xalqaro tarmoq mehmonxonalarida xizmat sifatini nazorat qilishning qaysi shakli eng koʻp",
+    "options": [
+      {
+        "text": "Standartlashtirilgan auditlar tizimi",
+        "correct": true
+      },
+      {
+        "text": "Qoʻshnilardan soʻrov oʻtkazish",
+        "correct": false
+      },
+      {
+        "text": "Forumlarda sharhlar joylashtirish",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarni telefon orqali soʻrov qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Quyidagilardan qaysi biri xavfsizlik nuqtai nazaridan mehmonxona uchun xavf (risk)",
+    "options": [
+      {
+        "text": "Saytning sekin yuklanishi",
+        "correct": true
+      },
+      {
+        "text": "Yongʻin",
+        "correct": false
+      },
+      {
+        "text": "Mulkning oʻgʻirlanishi",
+        "correct": false
+      },
+      {
+        "text": "Sanitariya normalarining buzilishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Qaysi tizim mehmonxona sifatining eʼlon qilingan yulduzlik darajasiga muvofiqligini",
+    "options": [
+      {
+        "text": "Milliy tasniflash tizimi",
+        "correct": true
+      },
+      {
+        "text": "Turistik litsenziya",
+        "correct": false
+      },
+      {
+        "text": "Roʻyxatdan oʻtish guvohnomasi",
+        "correct": false
+      },
+      {
+        "text": "Kelib chiqish sertifikati",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "«Mehmonxona xizmat koʻrsatish standarti» atamasi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Xizmatlar koʻrsatishning minimal majburiy normalari",
+        "correct": true
+      },
+      {
+        "text": "Mehmonlarning maksimal soni",
+        "correct": false
+      },
+      {
+        "text": "Xonalar va mebellarning oʻlchami",
+        "correct": false
+      },
+      {
+        "text": "Reklama kampaniyasi reglamenti",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Mehmonxonaga uzoq muddatli istiqbolda sifatni saqlab qolishga nima yordam beradi?",
+    "options": [
+      {
+        "text": "Xodimlarni uzluksiz oʻqitish",
+        "correct": true
+      },
+      {
+        "text": "Xarid xarajatlarini qisqartirish",
+        "correct": false
+      },
+      {
+        "text": "Mijozlar fikriga eʼtibor bermaslik",
+        "correct": false
+      },
+      {
+        "text": "Yilda bir marta xonalarni tekshirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Mehmonlar sharhlarini tahlil qilishda sifatni baholashning qaysi usuli eng koʻp qoʻllaniladi?",
+    "options": [
+      {
+        "text": "Kontent-tahlil",
+        "correct": true
+      },
+      {
+        "text": "Keys usuli",
+        "correct": false
+      },
+      {
+        "text": "SWOT-tahlil",
+        "correct": false
+      },
+      {
+        "text": "PEST-tahlil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Quyidagilardan qaysi biri mehmonxonadagi ichki xavfsizlik elementidir?",
+    "options": [
+      {
+        "text": "Kirishni nazorat qilish tizimi va videokuzatuv",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxonaning reklama kampaniyasi",
+        "correct": false
+      },
+      {
+        "text": "Saytni yangilash",
+        "correct": false
+      },
+      {
+        "text": "Marketing shiori",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Ekologik menejment tizimini qaysi standart tasvirlaydi?",
+    "options": [
+      {
+        "text": "ISO 14001",
+        "correct": true
+      },
+      {
+        "text": "ISO 9001",
+        "correct": false
+      },
+      {
+        "text": "ISO 45001",
+        "correct": false
+      },
+      {
+        "text": "ISO 26000",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Mehmonxonada xizmat koʻrsatish sifatini baholash uchun qaysi usul eng koʻp qoʻllaniladi?",
+    "options": [
+      {
+        "text": "Mehmonlarni anketalashtirish (soʻrovnoma)",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarning ogʻzaki hisoboti",
+        "correct": false
+      },
+      {
+        "text": "Moliyaviy hisobotni tahlil qilish",
+        "correct": false
+      },
+      {
+        "text": "Oshxona xodimlarini soʻroq qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Qaysi koʻrsatkich mehmonlar qoniqqanligini baholashda asosiy hisoblanadi?",
+    "options": [
+      {
+        "text": "Mijozlar qoniqqanligi indeksi (CSI)",
+        "correct": true
+      },
+      {
+        "text": "Mini-bardan tushgan daromad",
+        "correct": false
+      },
+      {
+        "text": "Internetdagi reklama hajmi",
+        "correct": false
+      },
+      {
+        "text": "Smenadagi xodimlar soni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Mehmonxona xizmatlarini baholashning sifat (sifatga oid) usullariga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Intervyu, kuzatuv, sharhlarni tahlil qilish",
+        "correct": true
+      },
+      {
+        "text": "Faqat buxgalteriya maʼlumotlari",
+        "correct": false
+      },
+      {
+        "text": "Amortizatsiyani hisoblash",
+        "correct": false
+      },
+      {
+        "text": "Soliqlarning moliyaviy tahlili",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Qaysi baholash usuli mijozning kutuvlari va idrokini aniqlashga asoslangan?",
+    "options": [
+      {
+        "text": "SERVQUAL modeli",
+        "correct": true
+      },
+      {
+        "text": "SWOT-tahlil",
+        "correct": false
+      },
+      {
+        "text": "Porter usuli",
+        "correct": false
+      },
+      {
+        "text": "Delfi usuli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Usullardan qaysi biri xizmat koʻrsatilgandan soʻng darhol fikr-mulohaza (aksa-sado) olish",
+    "options": [
+      {
+        "text": "Elektron soʻrovnoma yoki anketadagi sharh",
+        "correct": true
+      },
+      {
+        "text": "Choraklik moliyaviy hisobot",
+        "correct": false
+      },
+      {
+        "text": "Yilda bir marta standartni tekshirish",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarga ish haqi berish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Qaysi biri SERVQUAL modeli boʻyicha sifatni baholash mezoniga kirmaydi?",
+    "options": [
+      {
+        "text": "Xodimlarning formasi rangi",
+        "correct": true
+      },
+      {
+        "text": "Ishonchlilik",
+        "correct": false
+      },
+      {
+        "text": "Hushyorlik / Eʼtiborlilik (Reaksiyadorlik)",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarning ishonchliligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Mehmonlar qoniqqanligi dinamikasini aniqroq kuzatishga nima yordam beradi?",
+    "options": [
+      {
+        "text": "Turli davrlardagi sharhlarning qiyosiy tahlili",
+        "correct": true
+      },
+      {
+        "text": "Shtat jadvalini baholash",
+        "correct": false
+      },
+      {
+        "text": "Kassa apparatini tekshirish",
+        "correct": false
+      },
+      {
+        "text": "Lampochkalar sonini hisoblash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Sifatni baholashning miqdoriy usuliga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Etirozlar statistikasi, soʻrovnomalar, CSI",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarning tilaklari",
+        "correct": false
+      },
+      {
+        "text": "Yigʻishtirish boʻyicha qoʻllanma",
+        "correct": false
+      },
+      {
+        "text": "Xonalardagi devorlarning rangi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Mehmonxona xizmatlari sifatini baholashning maqsadi nima?",
+    "options": [
+      {
+        "text": "Muammolarni aniqlash va servisni yaxshilash",
+        "correct": true
+      },
+      {
+        "text": "Shtatni qisqartirish, servisni yaxshilash",
+        "correct": false
+      },
+      {
+        "text": "Soliqlarni oshirish,shtatni qisqartirish",
+        "correct": false
+      },
+      {
+        "text": "Logotip dizaynini oʻzgartirish, soliqlarni oshirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Qaysi usul mijozlardan real vaqt rejimida maʼlumot yigʻish imkonini beradi?",
+    "options": [
+      {
+        "text": "Baholash uchun QR-kodlar",
+        "correct": true
+      },
+      {
+        "text": "Yillik hisobot",
+        "correct": false
+      },
+      {
+        "text": "Buxgalteriya nazorati",
+        "correct": false
+      },
+      {
+        "text": "Sertifikatlarni tekshirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Net Promoter Score (NPS) nimani ifodalaydi?",
+    "options": [
+      {
+        "text": "NPS mijozning mehmonxonani tavsiya etishga tayyorligini ifodalaydi.",
+        "correct": true
+      },
+      {
+        "text": "NPS mehmonxonaning reklama xarajatlarini baholashni ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "NPS mehmonxonadagi mavjud xonalar sonini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "NPS mehmonxonaning foyda solig‘i, reklama xarajatlarini miqdorini ifodalaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Qaysi biri sifatni baholash usullariga kirmaydi?",
+    "options": [
+      {
+        "text": "Buxgalteriya ichki hisobdorligi uchun shakl",
+        "correct": true
+      },
+      {
+        "text": "Mehmonlarni soʻrov qilish",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarni kuzatish",
+        "correct": false
+      },
+      {
+        "text": "Xizmatlar boʻyicha nazorat roʻyxatlari (cheklatlar)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "«Mehmonxona xavfsizligi» tushunchasiga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Mehmonlar, xodimlar va mulkni muhofaza qilish boʻyicha chora-tadbirlar majmui",
+        "correct": true
+      },
+      {
+        "text": "Faqat kirish joyidagi qoʻriqlash, signalizatsiya, boʻyicha chora-tadbirlar majmui",
+        "correct": false
+      },
+      {
+        "text": "Faqat signalizatsiya ,mulkni muhofaza qilish boʻyicha chora-tadbirlar majmui",
+        "correct": false
+      },
+      {
+        "text": "Faqat signalizatsiya, xodimlar va mulkni muhofaza qilish boʻyicha chora-tadbirlar majmui",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Mehmonxonada umumiy xavfsizlikni tashkil etish uchun qaysi xizmat masʼul?",
+    "options": [
+      {
+        "text": "Xavfsizlik xizmati",
+        "correct": true
+      },
+      {
+        "text": "Umumiy ovqatlanish xizmati",
+        "correct": false
+      },
+      {
+        "text": "Marketing boʻlimi",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona kirxona (kir yuvish) xizmati",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Xavfsizlikning qaysi turi oʻgʻrilik va bostirib kirishlarning oldini olishga tegishli?",
+    "options": [
+      {
+        "text": "Jismoniy xavfsizlik",
+        "correct": true
+      },
+      {
+        "text": "Axborot xavfsizligi",
+        "correct": false
+      },
+      {
+        "text": "Psixologik xavfsizlik",
+        "correct": false
+      },
+      {
+        "text": "Sanitariya xavfsizligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Mehmonxonadagi texnik xavfsizlikka nimalar kiradi?",
+    "options": [
+      {
+        "text": "Uskunalar, liftlar, elektr tarmoqlarining holati",
+        "correct": true
+      },
+      {
+        "text": "Administrator ishi, liftlar",
+        "correct": false
+      },
+      {
+        "text": "Internetdagi reklama, elektr tarmoqlarining holati",
+        "correct": false
+      },
+      {
+        "text": "Xonalar narxini belgilash, uskunalar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Qaysi element yongʻin xavfsizligiga kiradi?",
+    "options": [
+      {
+        "text": "Oʻt oʻchirgichlar va signalizatsiya tizimi",
+        "correct": true
+      },
+      {
+        "text": "Yoʻlakdagi videokuzatuv, signalizatsiya tizimi",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona oldidagi avtoturargoh, yoʻlakdagi videokuzatuv",
+        "correct": false
+      },
+      {
+        "text": "Restoran menyusi, evakuatsiya rejasi, oʻt oʻchirgichlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Mehmonxonada xavfsizlik normalariga rioya qilinishi uchun kim javobgar?",
+    "options": [
+      {
+        "text": "Rahbariyat va vakolatli xodimlar",
+        "correct": true
+      },
+      {
+        "text": "Faqat qoʻriqlash xizmati",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona mehmonlari",
+        "correct": false
+      },
+      {
+        "text": "Davlat organlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Mehmonxonadagi axborot xavfsizligi nimani oʻz ichiga oladi?",
+    "options": [
+      {
+        "text": "Mehmonlarning shaxsiy maʼlumotlarini muhofaza qilishni",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxona reklamasini",
+        "correct": false
+      },
+      {
+        "text": "Oyna va vitrinalarni bezashni",
+        "correct": false
+      },
+      {
+        "text": "Parolsiz internetga kirishni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Fevqulodda vaziyatlarda harakatlar rejasini qaysi hujjat belgilaydi?",
+    "options": [
+      {
+        "text": "Evakuatsiya rejasi",
+        "correct": true
+      },
+      {
+        "text": "Mehmon anketasi",
+        "correct": false
+      },
+      {
+        "text": "Marketing strategiyasi",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarning ish grafigi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Sanitariya-gigiyena xavfsizligiga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Tozalikka rioya qilish, dezinfeksiya, kasalliklarning oldini olish",
+        "correct": true
+      },
+      {
+        "text": "Kirishdagi qoʻriqlash, kasalliklarning oldini olish",
+        "correct": false
+      },
+      {
+        "text": "Interyer ranglar gammasi, tozalikka rioya qilish",
+        "correct": false
+      },
+      {
+        "text": "Kalitlarni berish, , dezinfeksiya, kasalliklarning oldini olish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Mehmonxona xavfsizlik tizimida kirishni nazorat qilish (access control) nima?",
+    "options": [
+      {
+        "text": "Yot shaxslarning muayyan hududlarga kirishini cheklash",
+        "correct": true
+      },
+      {
+        "text": "Barcha uchun ochiq eshiklar",
+        "correct": false
+      },
+      {
+        "text": "Varaqalar tarqatish, so’rovnoma o’tkazish",
+        "correct": false
+      },
+      {
+        "text": "Naqd pul yechish, moliyaviy hisobotlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Quyidagi elementlardan qaysi biri xavfsizlik tizimiga kirmaydi?",
+    "options": [
+      {
+        "text": "Parolsiz Wi-Fi",
+        "correct": true
+      },
+      {
+        "text": "Videokuzatuv tizimi",
+        "correct": false
+      },
+      {
+        "text": "Kartochkali qulf",
+        "correct": false
+      },
+      {
+        "text": "Navbatchi qoʻriqchi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Xavfsizlikda «nol hodisa» (zero incident) konsepsiyasi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Xavf-xatarlar va koʻngilsiz hodisalarni toʻliq bartaraf etishga intilish",
+        "correct": true
+      },
+      {
+        "text": "Xonalarning maksimal toʻlishi, kartochkali qulflarni joriy etish",
+        "correct": false
+      },
+      {
+        "text": "Xarajatlarni qisqartirish, navbatchi qoʻriqchi ishini tashkil etish",
+        "correct": false
+      },
+      {
+        "text": "Yangi mebel sotib olish, videokuzatuv tizimini kuchaytirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Koʻrsatkichlardan qaysi biri mehmonxonadagi xavfsizlik darajasini baholaydi?",
+    "options": [
+      {
+        "text": "Hodisalar va mehmonlar eʼtirozlarining tez-tezligi",
+        "correct": true
+      },
+      {
+        "text": "Mini-bar sotuvi hajmi",
+        "correct": false
+      },
+      {
+        "text": "Ijtimoiy tarmoqlardagi layklar soni",
+        "correct": false
+      },
+      {
+        "text": "Bino umumiy maydoni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Mehmonxona qoʻriqlash xizmati majburiyatlariga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Kirishni nazorat qilish, videokuzatuv, nizolarning oldini olish",
+        "correct": true
+      },
+      {
+        "text": "Xonalarga xizmat koʻrsatish",
+        "correct": false
+      },
+      {
+        "text": "Xonalarni yigʻishtirish",
+        "correct": false
+      },
+      {
+        "text": "Ovqat tayyorlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Yongʻin vaqtida xodimlarning harakatlari uchun qaysi hujjat ishlab chiqiladi?",
+    "options": [
+      {
+        "text": "Yongʻin xavfsizligi boʻyicha yoʻriqnoma",
+        "correct": true
+      },
+      {
+        "text": "Xizmatlar narxi roʻyxati va yongʻin xavfsizligi boʻyicha yoʻriqnoma",
+        "correct": false
+      },
+      {
+        "text": "Reklama bukleti va evakuatsiya rejasi",
+        "correct": false
+      },
+      {
+        "text": "Marketing rejasi, yongʻin xavfsizligi boʻyicha yoʻriqnoma",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Qaysi zamonaviy yechim mehmonxonalarda kontaktsiz roʻyxatdan oʻtish (check-in) uchun",
+    "options": [
+      {
+        "text": "Ilova orqali mobil check-in",
+        "correct": true
+      },
+      {
+        "text": "Administrator huzurida yozma roʻyxatdan oʻtish",
+        "correct": false
+      },
+      {
+        "text": "Telefon orqali bron qilish",
+        "correct": false
+      },
+      {
+        "text": "Pochta orqali rasmiylashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "«Aqlli xona» (Smart Room) texnologiyasi nimani anglatadi?",
+    "options": [
+      {
+        "text": "Yoritish, harorat va multimediani avtomatlashtirish",
+        "correct": true
+      },
+      {
+        "text": "Qimmatbaho mebelli xona, harorat va multimediani avtomatlashtirish",
+        "correct": false
+      },
+      {
+        "text": "Maydoni kengaytirilgan xona, harorat va multimediani avtomatlashtirish",
+        "correct": false
+      },
+      {
+        "text": "Internetsiz xona, yoritish va harorat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Mehmonxonalarda RFID texnologiyasi nimani taʼminlaydi?",
+    "options": [
+      {
+        "text": "Xonalarga kontaktsiz kirish va buyumlarni hisobga olish",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarni qoʻlda nazorat qilish",
+        "correct": false
+      },
+      {
+        "text": "Dispetcher orqali xonalarni bron qilish",
+        "correct": false
+      },
+      {
+        "text": "Liftlarni boshqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Videokuzatuv va xavfsizlikni monitoring qilish uchun qaysi qurilmadan foydalaniladi?",
+    "options": [
+      {
+        "text": "CCTV tizimi",
+        "correct": true
+      },
+      {
+        "text": "Havo namlantirgich",
+        "correct": false
+      },
+      {
+        "text": "Resepshndagi printer",
+        "correct": false
+      },
+      {
+        "text": "QR-kod skaneri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Quyidagilardan qaysi biri mehmonlar maʼlumotlarining raqamli xavfsizligini oshiradi?",
+    "options": [
+      {
+        "text": "Shifrlash va parollarni himoyalash",
+        "correct": true
+      },
+      {
+        "text": "Parolsiz umumiy Wi-Fi kirish imkoniyati",
+        "correct": false
+      },
+      {
+        "text": "Qogʻoz shakllardan (formalar) foydalanish",
+        "correct": false
+      },
+      {
+        "text": "Shaxsiy maʼlumotlarni stendga joylashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "CRM-tizimlar mehmonxona biznesida qanday funksiyani bajaradi?",
+    "options": [
+      {
+        "text": "Mijozlar bilan oʻzaro munosabatlarni va ularning maʼlumotlarini boshqarish",
+        "correct": true
+      },
+      {
+        "text": "Elektr taʼminotini nazorat qilish va ularning maʼlumotlarini boshqarish",
+        "correct": false
+      },
+      {
+        "text": "Yoʻllanmalarni sotish va ularning maʼlumotlarini boshqarish",
+        "correct": false
+      },
+      {
+        "text": "Xonalarni yigʻishtirish va ularning maʼlumotlarini boshqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Real vaqt rejimida sifatni tahlil qilishga nima yordam beradi?",
+    "options": [
+      {
+        "text": "Onlayn-soʻrovnomalar va raqamli analitika",
+        "correct": true
+      },
+      {
+        "text": "Yillik hisobot",
+        "correct": false
+      },
+      {
+        "text": "Faks-soʻrovnoma",
+        "correct": false
+      },
+      {
+        "text": "Resepshndagi eʼtiroz (shikoyat)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Mehmonxonada IoT (Buyumlar interneti) qanday rol oʻynaydi?",
+    "options": [
+      {
+        "text": "Uskunalarni avtomatlashtirish va masofadan boshqarish",
+        "correct": true
+      },
+      {
+        "text": "Barcha eshiklarni qoʻlda yopish",
+        "correct": false
+      },
+      {
+        "text": "Byudjetni shakllantirish",
+        "correct": false
+      },
+      {
+        "text": "Xonalarga suvenirlar qoʻyish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Raqamli texnologiyalarning qaysi elementi mehmonxonaga mehmonlarning kutilmalarini",
+    "options": [
+      {
+        "text": "Big Data va foydalanuvchi xatti-harakatlarini tahlil qilish",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarning yopiq anketasi",
+        "correct": false
+      },
+      {
+        "text": "Qogʻoz shikoyatlar arxivi",
+        "correct": false
+      },
+      {
+        "text": "Shahar telefoniga qoʻngʻiroqlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Quyidagilardan qaysi biri mehmonxonada energiya samaradorligini oshirish",
+    "options": [
+      {
+        "text": "Intellektual yoritish va iqlim-nazorat (klimat-kontrol)",
+        "correct": true
+      },
+      {
+        "text": "Datchiksiz polni toʻgʻridan-toʻgʻri isitish",
+        "correct": false
+      },
+      {
+        "text": "Barcha qurilmalarni qoʻlda boshqarish",
+        "correct": false
+      },
+      {
+        "text": "Mebelni plastik mebelga almashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Mehmonxona servisiga chat-botlarni integratsiya qilishdan maqsad nima?",
+    "options": [
+      {
+        "text": "Mehmonlarga xodimlarning ishtirokisiz 24/7 xizmat koʻrsatish",
+        "correct": true
+      },
+      {
+        "text": "Yigʻilishlar oʻtkazish",
+        "correct": false
+      },
+      {
+        "text": "Oshxonani nazorat qilish",
+        "correct": false
+      },
+      {
+        "text": "Wi-Fi routerni almashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Mehmonxonalarda NFC texnologiyasi nimaga imkon beradi?",
+    "options": [
+      {
+        "text": "Kontaktsiz toʻlov va xizmatlardan foydalanish",
+        "correct": true
+      },
+      {
+        "text": "Xonalarni yigʻishtirish",
+        "correct": false
+      },
+      {
+        "text": "Qogʻoz chiptalar berish",
+        "correct": false
+      },
+      {
+        "text": "Reklamani nazorat qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Xavf (Risk) — bu:",
+    "options": [
+      {
+        "text": "Nomaqbul hodisaning sodir boʻlish ehtimoli va uning oqibatlari",
+        "correct": true
+      },
+      {
+        "text": "Kelajakda zararlarning kafolati",
+        "correct": false
+      },
+      {
+        "text": "Biznes daromadli boʻlishiga ishonch",
+        "correct": false
+      },
+      {
+        "text": "Xizmatlarni ilgarilatish (targʻib qilish) usuli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Xatarlarni boshqarish (risk-menejment) jarayoni nimani oʻz ichiga oladi?",
+    "options": [
+      {
+        "text": "Xatarlarni aniqlash, baholash, nazorat qilish va monitoring qilishni",
+        "correct": true
+      },
+      {
+        "text": "Faqat sugʻurtalashni, , baholash, nazorat qilishni",
+        "correct": false
+      },
+      {
+        "text": "Raqobatchilarni tahlil qilishni va monitoring qilishni",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarni tanlashni, va monitoring qilishni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Quyidagi xatarlardan qaysi biri ichki xatarlarga kiradi?",
+    "options": [
+      {
+        "text": "Xodimlarni samarasiz boshqarish",
+        "correct": true
+      },
+      {
+        "text": "Qonunchilikdagi oʻzgarishlar",
+        "correct": false
+      },
+      {
+        "text": "Tabiiy fojialar",
+        "correct": false
+      },
+      {
+        "text": "Iqtisodiy inqiroz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Xatarlarni miqdoriy baholash uchun qaysi usul qoʻllaniladi?",
+    "options": [
+      {
+        "text": "Ehtimollik va taʼsirni tahlil qilish",
+        "correct": true
+      },
+      {
+        "text": "SWOT-tahlil",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlarni anketalash",
+        "correct": false
+      },
+      {
+        "text": "Timbilding tashkil etish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Mehmonxona biznesida tashqi xatarlarga nima kiradi?",
+    "options": [
+      {
+        "text": "Mamlakat iqtisodiyotidagi oʻzgarishlar",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarning qoniqarsiz ishi",
+        "correct": false
+      },
+      {
+        "text": "Yetarlicha reklama qilinmagani",
+        "correct": false
+      },
+      {
+        "text": "Kadrlar qoʻnimdorligining yuqori darajasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Mehmonxona biznesida xatarlarni sugʻurtalashdan maqsad nima?",
+    "options": [
+      {
+        "text": "Sugʻurta hodisasi yuz berganda moliyaviy yoʻqotishlarni kamaytirish",
+        "correct": true
+      },
+      {
+        "text": "Servis darajasini oshirish",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarni nazorat qilish",
+        "correct": false
+      },
+      {
+        "text": "Xonalar sonini koʻpaytirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Quyidagilardan qaysi biri operatsion xatarga misol boʻla oladi?",
+    "options": [
+      {
+        "text": "Bron qilishdagi xatolar",
+        "correct": true
+      },
+      {
+        "text": "Tabiiy оfatlar",
+        "correct": false
+      },
+      {
+        "text": "Soliq qonunchiligidagi oʻzgarishlar",
+        "correct": false
+      },
+      {
+        "text": "Raqobatchilarning xatti-harakatlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Ehtimolligi va xavflilik darajasi yuqori boʻlgan xatarlarda qanday strategiya qoʻllaniladi?",
+    "options": [
+      {
+        "text": "Xatardan qochish (chetlanish)",
+        "correct": true
+      },
+      {
+        "text": "Xatarni mensimaslik (eʼtiborsiz qoldirish)",
+        "correct": false
+      },
+      {
+        "text": "Xatarni boshqaga oʻtkazish (topshirish)",
+        "correct": false
+      },
+      {
+        "text": "Xatarni qabul qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Risk-menejment nima?",
+    "options": [
+      {
+        "text": "Xatarlarni aniqlash, tahlil qilish va nazorat qilishni oʻz ichiga olgan boshqaruv tizimi",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxonani ijtimoiy tarmoqlarda ilgarilatish, tahlil qilish va nazorat qilishni oʻz ichiga olgan boshqaruv tizimi",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarni boshqarish, tahlil qilish va nazorat qilishni oʻz ichiga olgan boshqaruv tizimi",
+        "correct": false
+      },
+      {
+        "text": "Narx siyosatini ishlab chiqish, tahlil qilish va nazorat qilishni oʻz ichiga olgan boshqaruv tizimi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Mehmonxona biznesida xatarlarni boshqaga oʻtkazishning qaysi shakli eng keng tarqalgan?",
+    "options": [
+      {
+        "text": "Sugʻurtalash",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarni oʻqitish",
+        "correct": false
+      },
+      {
+        "text": "Narxlarni oshirish",
+        "correct": false
+      },
+      {
+        "text": "Raqobatchilarni tahlil qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Pandemiya sharoitida qaysi xatar eng ehtimolli hisoblanadi?",
+    "options": [
+      {
+        "text": "Mehmonxona bandligining (band boʻlish darajasining) tushib ketishi",
+        "correct": true
+      },
+      {
+        "text": "Qoniqarsiz yigʻishtirish",
+        "correct": false
+      },
+      {
+        "text": "Muddati oʻtgan litsenziyalar",
+        "correct": false
+      },
+      {
+        "text": "Mehmon yukining yoʻqolishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Nima obroʻ (reputatsiya) xatariga sabab boʻlishi mumkin?",
+    "options": [
+      {
+        "text": "Mehmonlarning salbiy sharhlari",
+        "correct": true
+      },
+      {
+        "text": "Uy-joy kommunal xoʻjaligi tariflarining oshishi",
+        "correct": false
+      },
+      {
+        "text": "Mavsumiy xodimlarning toʻsatdan almashishi",
+        "correct": false
+      },
+      {
+        "text": "Yangi mebel xarid qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Xatarlarni boshqarishning qaysi usuli ularning oqibatlarini minimallashtirish bilan bogʻliq?",
+    "options": [
+      {
+        "text": "Xatarni kamaytirish",
+        "correct": true
+      },
+      {
+        "text": "Xatarni boshqaga oʻtkazish",
+        "correct": false
+      },
+      {
+        "text": "Xatardan qochish",
+        "correct": false
+      },
+      {
+        "text": "Xatarni qabul qilish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Xatarlarni ehtimolligi va taʼsir darajasi boʻyicha vizuallashtirish vositasi qanday ataladi?",
+    "options": [
+      {
+        "text": "Xatarlar matritsasi",
+        "correct": true
+      },
+      {
+        "text": "Organigramma",
+        "correct": false
+      },
+      {
+        "text": "Moliyaviy hisobot",
+        "correct": false
+      },
+      {
+        "text": "Boʻysunuvchilik tuzilmasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Yongʻin xavfsizligi qoidalarining buzilishi xatarlarning qaysi turiga kiradi?",
+    "options": [
+      {
+        "text": "Texnogen",
+        "correct": true
+      },
+      {
+        "text": "Moliyaviy",
+        "correct": false
+      },
+      {
+        "text": "Strategik",
+        "correct": false
+      },
+      {
+        "text": "Bozor xatarlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Mehmonxona xizmatining ishonchliligini nima tavsiflaydi?",
+    "options": [
+      {
+        "text": "Vada qilingan xizmatning barqaror bajarilishi",
+        "correct": true
+      },
+      {
+        "text": "Faqat interyerning jozibadorligi",
+        "correct": false
+      },
+      {
+        "text": "Faqat arzon narx",
+        "correct": false
+      },
+      {
+        "text": "Reklama nashrlarining soni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Bitta xizmat boʻyicha tizimli shikoyatlar aniqlanganda nima qilish kerak?",
+    "options": [
+      {
+        "text": "Takrorlanuvchi sababni aniqlash va jarayonni baholash",
+        "correct": true
+      },
+      {
+        "text": "Alohida sharhlarni eʼtiborsiz qoldirish",
+        "correct": false
+      },
+      {
+        "text": "Xizmatni darhol bekor qilish",
+        "correct": false
+      },
+      {
+        "text": "Shikoyatlarni tahlil qilmasdan arxivga oʻtkazish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Mehmonlarning shaxsiy maʼlumotlari sizib chiqishi bilan bogʻliq xatar qaysi turga kiradi?",
+    "options": [
+      {
+        "text": "Axborot xatari",
+        "correct": true
+      },
+      {
+        "text": "Sanitariya xatari",
+        "correct": false
+      },
+      {
+        "text": "Yongʻin xatari",
+        "correct": false
+      },
+      {
+        "text": "Transport xatari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Atrof-muhitni boshqarish tizimining asosiy maqsadi nimaga qaratiladi?",
+    "options": [
+      {
+        "text": "Ekologik ko‘rsatkichlarni muntazam yaxshilashga qaratiladi.",
+        "correct": true
+      },
+      {
+        "text": "Korxona daromadini muntazam ko‘paytirishga qaratiladi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmatlar narxini muntazam oshirishga qaratiladi.",
+        "correct": false
+      },
+      {
+        "text": "Korxona xodimlari sonini muntazam ko‘paytirishga qaratiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Atrof-muhitni boshqarish tizimida ekologik ta’sir qanday boshqariladi?",
+    "options": [
+      {
+        "text": "U aniqlanadi, baholanadi va nazorat qilinadi.",
+        "correct": true
+      },
+      {
+        "text": "U hisoblanadi, sotiladi va moliyalashtiriladi.",
+        "correct": false
+      },
+      {
+        "text": "U reklama qilinadi, targ‘ib qilinadi va baholanadi.",
+        "correct": false
+      },
+      {
+        "text": "U rejalashtiriladi, sotiladi va iste’mol qilinadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Ekologik boshqaruv jarayonining boshlang‘ich elementi qaysi hisoblanadi?",
+    "options": [
+      {
+        "text": "Faoliyatning ekologik jihatlarini aniqlash hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Faoliyatning moliyaviy natijalarini aniqlash hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Faoliyatning marketing natijalarini aniqlash hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Faoliyatning savdo hajmini aniqlash hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Atrof-muhitni boshqarish tizimida monitoringning asosiy vazifasi nima?",
+    "options": [
+      {
+        "text": "Ekologik natijalarni muntazam kuzatib borishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Korxonaning moliyaviy natijalarini muntazam oshirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatlar narxini muntazam belgilashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning reklama faoliyatini muntazam kengaytirishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Atrof-muhitni boshqarish tizimining asosiy maqsadlaridan biri qaysi?",
+    "options": [
+      {
+        "text": "Tabiiy resurslardan samarali foydalanishni ta’minlashdir.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatlardan maksimal daromad olishni ta’minlashdir.",
+        "correct": false
+      },
+      {
+        "text": "Reklama xarajatlarini maksimal darajada oshirishni ta’minlashdir.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlar sonini maksimal darajada ko‘paytirishni ta’minlashdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Ekologik boshqaruvda qonunchilik talablariga rioya qilish nimani anglatadi?",
+    "options": [
+      {
+        "text": "Tashkilot ekologik talablarni bajarishini anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Tashkilot marketing talablarini bajarishini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Tashkilot savdo talablarini bajarishini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Tashkilot moliyaviy talablarni bajarishini anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "ISO 14001 standarti qaysi yo‘nalishga tegishli hisoblanadi?",
+    "options": [
+      {
+        "text": "Atrof-muhitni boshqarish tizimiga tegishli hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Moliyaviy hisobotlarni boshqarish tizimiga tegishli hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Marketing faoliyatini boshqarish tizimiga tegishli hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik savdoni boshqarish tizimiga tegishli hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "ISO 14001 tashkilotga qanday imkoniyat yaratadi?",
+    "options": [
+      {
+        "text": "Ekologik jihatlarni tizimli boshqarish imkonini yaratadi.",
+        "correct": true
+      },
+      {
+        "text": "Moliyaviy daromadlarni avtomatik ko‘paytirish imkonini yaratadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik talabni avtomatik oshirish imkonini yaratadi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama xarajatlarini avtomatik kamaytirish imkonini yaratadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "ISO 14001 tizimida tashkilot kontekstini tushunish nimani anglatadi?",
+    "options": [
+      {
+        "text": "Ichki va tashqi omillarni aniqlashni anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Ichki va tashqi xarajatlarni hisoblashni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Ichki va tashqi reklamalarni rejalashtirishni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Ichki va tashqi savdolarni tashkil etishni anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "ISO 14001 tizimida xavf va imkoniyatlarni rejalashtirish nima uchun zarur?",
+    "options": [
+      {
+        "text": "Ekologik xavflarni oldindan boshqarish uchun zarur.",
+        "correct": true
+      },
+      {
+        "text": "Turistik narxlarni oldindan oshirish uchun zarur.",
+        "correct": false
+      },
+      {
+        "text": "Reklama xarajatlarini oldindan ko‘paytirish uchun zarur.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlar sonini oldindan oshirish uchun zarur.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "ISO 14001 tizimida monitoring va o‘lchash nima uchun amalga oshiriladi?",
+    "options": [
+      {
+        "text": "Ekologik faoliyat natijalarini baholash uchun amalga oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatlar narxini belgilash uchun amalga oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Korxona foydasini taqsimlash uchun amalga oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama samaradorligini oshirish uchun amalga oshiriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Ekologik boshqaruvda doimiy takomillashtirish nimani anglatadi?",
+    "options": [
+      {
+        "text": "Aniqlangan kamchiliklarni bartaraf etib borishni anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Xizmatlar narxini muntazam oshirib borishni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama hajmini muntazam kengaytirib borishni anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlar sonini muntazam ko‘paytirib borishni anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question": "ISO 14001 tizimida PDCA siklining birinchi bosqichi qaysi?",
+    "options": [
+      {
+        "text": "Ekologik faoliyatni rejalashtirish bosqichi hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Ekologik natijalarni tekshirish bosqichi hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Ekologik kamchiliklarni tuzatish bosqichi hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Ekologik tadbirlarni amalda bajarish bosqichi hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question": "PDCA siklining “Check” bosqichi qanday mazmunga ega?",
+    "options": [
+      {
+        "text": "Natijalarni o‘lchash va tahlil qilish mazmuniga ega.",
+        "correct": true
+      },
+      {
+        "text": "Ekologik siyosatni ishlab chiqish mazmuniga ega.",
+        "correct": false
+      },
+      {
+        "text": "Amaliy tadbirlarni boshlash mazmuniga ega.",
+        "correct": false
+      },
+      {
+        "text": "Aniqlangan kamchiliklarni bartaraf etish mazmuniga ega.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "PDCA siklining “Act” bosqichi nimaga xizmat qiladi?",
+    "options": [
+      {
+        "text": "Tuzatish choralarini kiritish va takomillashtirishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Dastlabki ekologik ma’lumotlarni yig‘ishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Ekologik ko‘rsatkichlarni birinchi marta o‘lchashga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Ekologik xavflarni dastlabki aniqlashga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Ekologik xavflarni ustuvorlashtirishdan asosiy maqsad nima?",
+    "options": [
+      {
+        "text": "Muhim xavflarni birinchi navbatda boshqarishni ta’minlashdir.",
+        "correct": true
+      },
+      {
+        "text": "Barcha xarajatlarni bir xil darajada oshirishni ta’minlashdir.",
+        "correct": false
+      },
+      {
+        "text": "Barcha xizmatlarni bir xil darajada kengaytirishni ta’minlashdir.",
+        "correct": false
+      },
+      {
+        "text": "Barcha reklamalarni bir xil darajada kuchaytirishni ta’minlashdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Mehmonxonalarda suv sarfi qaysi ekologik xavf bilan bog‘liq?",
+    "options": [
+      {
+        "text": "Tabiiy suv resurslaridan ortiqcha foydalanish xavfi bilan bog‘liq.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatlarning reklama xarajatlari oshishi xavfi bilan bog‘liq.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona xodimlari sonining kamayishi xavfi bilan bog‘liq.",
+        "correct": false
+      },
+      {
+        "text": "Turistik mahsulotlarning narxi o‘zgarishi xavfi bilan bog‘liq.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "100 xonali mehmonxonada 200 mehmon bo‘lib, har bir mehmon kuniga 300 litr suv",
+    "options": [
+      {
+        "text": "Kunlik suv sarfi 60 000 litrni tashkil qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Kunlik suv sarfi 30 000 litrni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Kunlik suv sarfi 90 000 litrni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Kunlik suv sarfi 120 000 litrni tashkil qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "60 000 litr kunlik suv sarfi bir yil davomida qancha bo‘ladi?",
+    "options": [
+      {
+        "text": "Yillik suv sarfi 21 900 000 litrni tashkil qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Yillik suv sarfi 18 900 000 litrni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Yillik suv sarfi 24 000 000 litrni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Yillik suv sarfi 30 000 000 litrni tashkil qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Mehmonxonada suv samaradorligini baholash uchun qaysi ko‘rsatkichdan foydalaniladi?",
+    "options": [
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan suv sarfi olinadi.",
+        "correct": true
+      },
+      {
+        "text": "Bir xonaga to‘g‘ri keladigan umumiy daromad miqdori olinadi.",
+        "correct": false
+      },
+      {
+        "text": "Bir xodimga to‘g‘ri keladigan reklama xarajati olinadi.",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmonxonaga to‘g‘ri keladigan savdo hajmi olinadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "L/guest-night ko‘rsatkichi nimani ifodalaydi?",
+    "options": [
+      {
+        "text": "Bir mehmon-tuniga sarflanadigan suv miqdorini ifodalaydi.",
+        "correct": true
+      },
+      {
+        "text": "Bir mehmon-tuniga sarflanadigan energiya miqdorini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmon-tuniga hosil bo‘ladigan chiqindi miqdorini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmon-tuniga chiqariladigan karbon miqdorini ifodalaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Mehmonxonada ortiqcha energiya sarfini kamaytirish uchun nima qo‘llanadi?",
+    "options": [
+      {
+        "text": "Mehmon kartasiga bog‘langan energiya boshqaruvi qo‘llanadi.",
+        "correct": true
+      },
+      {
+        "text": "Mehmonlar sonini oshirishga qaratilgan reklama siyosati qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xonalar narxini oshirishga qaratilgan tarif siyosati qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatlarni kengaytirishga qaratilgan savdo siyosati qo‘llanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Bir bo‘sh xona kuniga 5 kWh ortiqcha energiya sarflasa, 200 xona uchun kunlik sarf qancha",
+    "options": [
+      {
+        "text": "Kunlik ortiqcha sarf 1 000 kWhni tashkil qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Kunlik ortiqcha sarf 500 kWhni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Kunlik ortiqcha sarf 1 500 kWhni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Kunlik ortiqcha sarf 2 000 kWhni tashkil qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "200 xonadagi 1 000 kWh kunlik ortiqcha sarf yiliga qancha bo‘ladi?",
+    "options": [
+      {
+        "text": "Yillik ortiqcha sarf 365 000 kWhni tashkil qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Yillik ortiqcha sarf 300 000 kWhni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Yillik ortiqcha sarf 400 000 kWhni tashkil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Yillik ortiqcha sarf 500 000 kWhni tashkil qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Energiya sarfini kamaytirishning ekologik natijasi qanday bo‘ladi?",
+    "options": [
+      {
+        "text": "Xarajatlar va karbon izi kamayishiga olib keladi.",
+        "correct": true
+      },
+      {
+        "text": "Xizmatlar hajmi va turistik talab kamayishiga olib keladi.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlar soni va turistik daromad kamayishiga olib keladi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama hajmi va xizmatlar narxi kamayishiga olib keladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Oziq-ovqat chiqindilarining asosiy ekologik oqibati qaysi?",
+    "options": [
+      {
+        "text": "Resurslarning behuda sarflanishi va ifloslanishdir.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatlarning avtomatik ko‘payishi va rivojlanishidir.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona daromadlarining avtomatik oshishi va ko‘payishidir.",
+        "correct": false
+      },
+      {
+        "text": "Restoran xizmatlarining avtomatik yaxshilanishi va kengayishidir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Oziq-ovqat chiqindisini kamaytirishning samarali chorasi qaysi?",
+    "options": [
+      {
+        "text": "Menyuni talab prognoziga asoslanib rejalashtirishdir.",
+        "correct": true
+      },
+      {
+        "text": "Menyudagi barcha taomlar hajmini bir xil darajada oshirishdir.",
+        "correct": false
+      },
+      {
+        "text": "Restorandagi barcha taomlarni bir xil miqdorda tayyorlashdir.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlar talabini hisobga olmasdan zaxirani ko‘paytirishdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Oziq-ovqat chiqindisini kamaytirishda xodimlarni o‘qitishning ahamiyati nimada?",
+    "options": [
+      {
+        "text": "Xodimlarning ekologik mas’uliyatini oshirishga yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "Xodimlarning ish vaqtini qisqartirishga yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarning xizmat narxini belgilashiga yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlarning reklama faoliyatini kuchaytirishga yordam beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Oziq-ovqat chiqindisini muntazam boshqarishda qaysi usul muhim?",
+    "options": [
+      {
+        "text": "Chiqindi miqdorini muntazam o‘lchash va monitoring qilishdir.",
+        "correct": true
+      },
+      {
+        "text": "Chiqindi hajmini taxminiy baholab, monitoringni to‘xtatishdir.",
+        "correct": false
+      },
+      {
+        "text": "Chiqindi hajmini faqat yil oxirida hisoblash va baholashdir.",
+        "correct": false
+      },
+      {
+        "text": "Chiqindi hajmini faqat mehmonlar shikoyatidan keyin baholashdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question": "100 xonali mehmonxonada kuniga 150 ta bir martalik plastik butilka ishlatilsa, bir oyda",
+    "options": [
+      {
+        "text": "Bir oyda 4 500 dona butilka sarflanadi.",
+        "correct": true
+      },
+      {
+        "text": "Bir oyda 3 000 dona butilka sarflanadi.",
+        "correct": false
+      },
+      {
+        "text": "Bir oyda 5 500 dona butilka sarflanadi",
+        "correct": false
+      },
+      {
+        "text": "D) Bir oyda 6 000 dona butilka sarflanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Bir martalik plastik butilkalardan foydalanishni kamaytirishning maqbul chorasi qaysi?",
+    "options": [
+      {
+        "text": "Qayta foydalaniladigan shisha idishlardan foydalanishdir.",
+        "correct": true
+      },
+      {
+        "text": "Bir martalik plastik idishlar sonini ko‘paytirishdir.",
+        "correct": false
+      },
+      {
+        "text": "Bir martalik plastik idishlarni kattaroq hajmda xarid qilishdir.",
+        "correct": false
+      },
+      {
+        "text": "Bir martalik plastik idishlarni boshqa rangda ishlab chiqarishdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Plastik chiqindilarni kamaytirishning ekologik natijasi qanday bo‘ladi?",
+    "options": [
+      {
+        "text": "Tabiiy muhitga tushadigan plastik chiqindi kamayadi.",
+        "correct": true
+      },
+      {
+        "text": "Korxonaning energiya iste’moli avtomatik ravishda oshadi.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning suv iste’moli avtomatik ravishda ko‘payadi.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning oziq-ovqat chiqindisi avtomatik ravishda oshadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Ekologik KPIlarning asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Ekologik samaradorlikni o‘lchash va nazorat qilishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Korxonaning reklama samaradorligini o‘lchash va nazorat qilishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Turistik xizmatlarning narx samaradorligini o‘lchash va nazorat qilishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning savdo hajmini o‘lchash va nazorat qilishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "kWh/guest-night ko‘rsatkichi nimani ifodalaydi?",
+    "options": [
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan energiya sarfini ifodalaydi.",
+        "correct": true
+      },
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan suv sarfini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan oziq-ovqat chiqindisini ifodalaydi",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan plastik chiqindi miqdorini ifodalaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "kg CO₂e/guest-night ko‘rsatkichi nimani ifodalaydi?",
+    "options": [
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan karbon emissiyasini ifodalaydi.",
+        "correct": true
+      },
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan suv sarfini ifodalaydi",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan energiya sarfini ifodalaydi.",
+        "correct": false
+      },
+      {
+        "text": "Bir mehmon-tuniga to‘g‘ri keladigan oziq-ovqat sarfini ifodalaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Qayta ishlash ulushi qanday ko‘rsatkich sifatida ifodalanadi?",
+    "options": [
+      {
+        "text": "Qayta ishlangan chiqindilarning ulushi foizda ifodalanadi.",
+        "correct": true
+      },
+      {
+        "text": "Qayta ishlangan chiqindilarning hajmi litrda ifodalanadi",
+        "correct": false
+      },
+      {
+        "text": "Qayta ishlangan chiqindilarning qiymati dollarda ifodalanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qayta ishlangan chiqindilarning miqdori metrda ifodalanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Ekologik KPIlarni qo‘llashning iqtisodiy ahamiyati nimada?",
+    "options": [
+      {
+        "text": "Resurs sarfi va operatsion xarajatlarni kamaytirishga yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatlar narxini majburiy ravishda oshirishga yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama xarajatlarini majburiy ravishda ko‘paytirishga yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlar sonini majburiy ravishda oshirishga yordam beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Ekologik boshqaruvning turizm korxonasi imijiga ta’siri qanday?",
+    "options": [
+      {
+        "text": "Korxonaning ekologik imiji va mehmonlar ishonchini oshiradi.",
+        "correct": true
+      },
+      {
+        "text": "Korxonaning xizmat narxi va reklama xarajatlarini oshiradi.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning xodimlar soni va boshqaruv xarajatlarini oshiradi.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning xizmat hajmi va transport xarajatlarini oshiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Ekologik xavflarni samarali boshqarishning yakuniy natijasi nima?",
+    "options": [
+      {
+        "text": "Barqaror turizm va resurslardan samarali foydalanish ta’minlanadi.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatlar va reklama xarajatlari doimiy ravishda oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Korxona xodimlari va xizmat ko‘rsatish hajmi doimiy ravishda oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Turistik mahsulotlar va xizmatlar narxi doimiy ravishda oshiriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Turizm xizmatlari sifatini baholashda sifat qanday tushuniladi?",
+    "options": [
+      {
+        "text": "Sifat mijoz kutishi va real tajribasi munosabati sifatida baholanadi.",
+        "correct": true
+      },
+      {
+        "text": "Sifat korxona xarajati va daromadi munosabati sifatida baholanadi.",
+        "correct": false
+      },
+      {
+        "text": "Sifat xizmat narxi va talab hajmi munosabati sifatida baholanadi.",
+        "correct": false
+      },
+      {
+        "text": "Sifat reklama hajmi va sotuv miqdori munosabati sifatida baholanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Nima sababdan turistik xizmat sifatini bitta indikator bilan baholab bo‘lmaydi?",
+    "options": [
+      {
+        "text": "Sifat xizmatning bir nechta jihatlari bilan belgilanadi.",
+        "correct": true
+      },
+      {
+        "text": "Sifat faqat mijozlarning umumiy soni bilan belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Sifat faqat korxonaning yillik daromadi bilan belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Sifat faqat xizmatlarning o‘rtacha narxi bilan belgilanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Xizmat sifatini baholashning umumiy mantiqiy ketma-ketligi qaysi?",
+    "options": [
+      {
+        "text": "Kutilma → xizmat → tajriba → sifat → qoniqish → tavsiya.",
+        "correct": true
+      },
+      {
+        "text": "Xarajat → xizmat → narx → daromad → foyda → tavsiya.",
+        "correct": false
+      },
+      {
+        "text": "Reklama → sotuv → narx → daromad → foyda → talab.",
+        "correct": false
+      },
+      {
+        "text": "Talab → ishlab chiqarish → xarajat → narx → foyda → sotuv.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Sifat mezonlarini belgilash bosqichining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Korxona uchun muhim sifat yo‘nalishlarini aniqlashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Korxona uchun muhim moliyaviy ko‘rsatkichlarni aniqlashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxona uchun muhim reklama kanallarini aniqlashdan iborat",
+        "correct": false
+      },
+      {
+        "text": "Korxona uchun muhim savdo hajmlarini aniqlashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Turizm xizmatlari uchun sifat mezonlariga qaysi ko‘rsatkich kiradi?",
+    "options": [
+      {
+        "text": "Xizmat tezligi, xavfsizlik va tozalik kabi ko‘rsatkichlar kiradi.",
+        "correct": true
+      },
+      {
+        "text": "Soliq stavkasi, kredit hajmi va foyda kabi ko‘rsatkichlar kiradi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama xarajati, savdo hajmi va eksport kabi ko‘rsatkichlar kiradi.",
+        "correct": false
+      },
+      {
+        "text": "Kapital hajmi, aktivlar va dividend kabi ko‘rsatkichlar kiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Sifat mezonlarini o‘lchanadigan indikatorlarga aylantirishdan maqsad nima?",
+    "options": [
+      {
+        "text": "Sifat natijalarini aniq o‘lchash imkoniyatini yaratishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Sifat natijalarini faqat subyektiv baholash imkoniyatini yaratishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Sifat natijalarini faqat moliyaviy hisoblash imkoniyatini yaratishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Sifat natijalarini faqat reklama orqali baholash imkoniyatini yaratishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Indikator qanday talabga javob berishi kerak?",
+    "options": [
+      {
+        "text": "Indikator aniq, o‘lchanadigan va taqqoslanadigan bo‘lishi kerak.",
+        "correct": true
+      },
+      {
+        "text": "Indikator umumiy, taxminiy va o‘zgaruvchan bo‘lishi kerak.",
+        "correct": false
+      },
+      {
+        "text": "Indikator murakkab, mavhum va subyektiv bo‘lishi kerak.",
+        "correct": false
+      },
+      {
+        "text": "Indikator tasodifiy, cheklangan va umumiy bo‘lishi kerak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Check-in vaqtini baholashda qaysi ko‘rsatkichdan foydalaniladi?",
+    "options": [
+      {
+        "text": "Check-in uchun o‘rtacha sarflangan vaqt ko‘rsatkichi olinadi.",
+        "correct": true
+      },
+      {
+        "text": "Check-in uchun o‘rtacha sarflangan xarajat ko‘rsatkichi olinadi.",
+        "correct": false
+      },
+      {
+        "text": "Check-in uchun o‘rtacha olingan daromad ko‘rsatkichi olinadi.",
+        "correct": false
+      },
+      {
+        "text": "Check-in uchun o‘rtacha sotilgan xizmat ko‘rsatkichi olinadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Xodimlar kompetensiyasini baholashda qaysi indikator qo‘llanadi?",
+    "options": [
+      {
+        "text": "Mijozlarning xodimlardan qoniqish darajasi ko‘rsatkichi qo‘llanadi.",
+        "correct": true
+      },
+      {
+        "text": "Mijozlarning xizmat uchun to‘lagan summasi ko‘rsatkichi qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Mijozlarning mehmonxonada qolgan kunlari ko‘rsatkichi qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Mijozlarning bronlashtirish soni ko‘rsatkichi qo‘llanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Xavfsizlik sifatini baholashda qaysi indikator muhim hisoblanadi?",
+    "options": [
+      {
+        "text": "Xavfsizlikka oid shikoyatlar soni muhim indikator hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Reklamaga oid murojaatlar soni muhim indikator hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Savdoga oid buyurtmalar soni muhim indikator hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Bronlashtirishga oid so‘rovlar soni muhim indikator hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Ma’lumot yig‘ish bosqichining asosiy maqsadi nimadan iborat?",
+    "options": [
+      {
+        "text": "Sifat mezonlari bo‘yicha ishonchli ma’lumotlarni yig‘ishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Korxonaning moliyaviy hujjatlarini tasdiqlashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning reklama materiallarini kengaytirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning savdo rejasini qayta ishlab chiqishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Sifatni baholashda ma’lumotning asosiy manbalariga nimalar kiradi?",
+    "options": [
+      {
+        "text": "Mijozlar, xodimlar, kuzatuv va raqamli manbalar kiradi.",
+        "correct": true
+      },
+      {
+        "text": "Banklar, investorlar, aksiyadorlar va kreditorlar kiradi.",
+        "correct": false
+      },
+      {
+        "text": "Soliq organlari, sug‘urta va kredit tashkilotlari kiradi.",
+        "correct": false
+      },
+      {
+        "text": "Reklama agentliklari, ommaviy axborot vositalari va dilerlar kiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Anketa usulining asosiy maqsadi nimadan iborat?",
+    "options": [
+      {
+        "text": "Mijoz fikrini miqdoriy shaklda o‘lchashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Xodim faoliyatini faqat bevosita kuzatishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat jarayonini faqat yashirin tekshirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Muammolarning sabablarini faqat chuqur suhbatda aniqlashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Intervyu usulining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Mijoz tajribasi va muammolarining chuqur sabablarini aniqlashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Mijoz fikrlarini faqat qisqa savollar orqali o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat jarayonini faqat vaqt ko‘rsatkichi orqali o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xodim faoliyatini faqat standart jadval orqali baholashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Kuzatuv usulining asosiy xususiyati nimadan iborat?",
+    "options": [
+      {
+        "text": "Xizmat jarayonidagi real xatti-harakatlarni bevosita qayd etishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Xizmat jarayonidagi taxminiy fikrlarni faqat respondentdan olishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat jarayonidagi moliyaviy natijalarni faqat hujjatlardan olishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat jarayonidagi kelajak natijalarni faqat prognozlashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Normalizatsiyaning asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Turli o‘lchovdagi indikatorlarni yagona shkalaga keltirishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Turli xizmatlarni yagona narx darajasiga keltirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Turli mijozlarni yagona xizmat guruhiga keltirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Turli korxonalarni yagona mulk shakliga keltirishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Min–max normalizatsiyasining natijasi odatda qanday oraliqda bo‘ladi?",
+    "options": [
+      {
+        "text": "Normalizatsiya natijasi 0 dan 1 gacha bo‘lgan oraliqda bo‘ladi.",
+        "correct": true
+      },
+      {
+        "text": "Normalizatsiya natijasi 1 dan 10 gacha bo‘lgan oraliqda bo‘ladi.",
+        "correct": false
+      },
+      {
+        "text": "Normalizatsiya natijasi 10 dan 100 gacha bo‘lgan oraliqda bo‘ladi.",
+        "correct": false
+      },
+      {
+        "text": "Normalizatsiya natijasi 100 dan 1000 gacha bo‘lgan oraliqda bo‘ladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Stimulyator indikator qanday ko‘rsatkich hisoblanadi?",
+    "options": [
+      {
+        "text": "Qiymati oshgani sari sifatga ijobiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Qiymati oshgani sari sifatga salbiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qiymati o‘zgarganda sifatga ta’sir qilmaydigan ko‘rsatkich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qiymati kamayganda sifatga ijobiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Desstimulyator indikator qanday ko‘rsatkich hisoblanadi?",
+    "options": [
+      {
+        "text": "Qiymati kamaygani sari sifatga ijobiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Qiymati kamaygani sari sifatga salbiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qiymati oshgani sari sifatga ijobiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qiymati o‘zgarganda sifatga ijobiy ta’sir qiluvchi ko‘rsatkich hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Qaysi ko‘rsatkich desstimulyator hisoblanadi?",
+    "options": [
+      {
+        "text": "Xizmat ko‘rsatish vaqti desstimulyator ko‘rsatkich hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Xodimlar kompetensiyasi desstimulyator ko‘rsatkich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Mijozlar qoniqishi desstimulyator ko‘rsatkich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Raqamli xizmatlardan foydalanish desstimulyator ko‘rsatkich hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Integral baholashning asosiy maqsadi nimadan iborat?",
+    "options": [
+      {
+        "text": "Alohida indikatorlarni umumiy sifat indeksiga birlashtirishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Alohida indikatorlarni alohida moliyaviy hisobotlarga ajratishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Alohida indikatorlarni turli marketing guruhlariga ajratishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Alohida indikatorlarni turli xizmat narxlariga birlashtirishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Integral sifat indeksida og‘irlik koeffitsientining vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Har bir indikatorning umumiy sifatdagi muhimligini aks ettirishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Har bir indikatorning umumiy xarajatdagi ulushini aks ettirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Har bir indikatorning umumiy daromaddagi ulushini aks ettirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Har bir indikatorning umumiy savdodagi ulushini aks ettirishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Muammoli nuqtalarni aniqlash bosqichining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Sifatni pasaytirayotgan xizmat elementlarini aniqlashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Daromadni oshirayotgan xizmat elementlarini aniqlashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Reklamani kuchaytirayotgan xizmat elementlarini aniqlashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Sotuvni ko‘paytirayotgan xizmat elementlarini aniqlashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Muammoli nuqtalarni aniqlashda qaysi yondashuvdan foydalaniladi?",
+    "options": [
+      {
+        "text": "Eng past natijaga ega indikatorlar ustuvor tahlil qilinadi.",
+        "correct": true
+      },
+      {
+        "text": "Eng yuqori natijaga ega indikatorlar ustuvor tahlil qilinadi.",
+        "correct": false
+      },
+      {
+        "text": "Eng qimmat xizmatlar ustuvor moliyaviy tahlil qilinadi.",
+        "correct": false
+      },
+      {
+        "text": "Eng ko‘p sotilgan xizmatlar ustuvor marketing tahlil qilinadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "question": "Muammoli nuqtalarning sabablarini aniqlashda qaysi usullar qo‘llanadi?",
+    "options": [
+      {
+        "text": "Anketa, intervyu, kuzatuv va shikoyatlar tahlili qo‘llanadi.",
+        "correct": true
+      },
+      {
+        "text": "Reklama, savdo, narx va foyda tahlili qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Soliq, kredit, investitsiya va eksport tahlili qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Aktiv, kapital, dividend va amortizatsiya tahlili qo‘llanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question": "Boshqaruv qarorini tanlashda qaysi mezon muhim hisoblanadi?",
+    "options": [
+      {
+        "text": "Qarorning iqtisodiy samaradorligi va amalga oshirish imkoniyati hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Qarorning reklama hajmi va ommaviyligi asosiy mezon hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qarorning xizmat narxi va chegirma hajmi asosiy mezon hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Qarorning korxona nomi va tashqi ko‘rinishi asosiy mezon hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "question": "Strategik qarorlar qanday muddatga mo‘ljallanadi?",
+    "options": [
+      {
+        "text": "Strategik qarorlar uzoq muddatli rivojlanishga mo‘ljallanadi.",
+        "correct": true
+      },
+      {
+        "text": "Strategik qarorlar faqat kunlik faoliyatga mo‘ljallanadi.",
+        "correct": false
+      },
+      {
+        "text": "Strategik qarorlar faqat bir martalik tadbirlarga mo‘ljallanadi.",
+        "correct": false
+      },
+      {
+        "text": "Strategik qarorlar faqat qisqa muddatli operatsiyalarga mo‘ljallanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "question": "Monitoring va doimiy takomillashtirishning asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Natijalarni muntazam kuzatib, xizmat sifatini yaxshilashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Natijalarni faqat yil oxirida ko‘rib, xizmat narxini oshirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Natijalarni faqat reklama davrida ko‘rib, sotuvni oshirishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Natijalarni faqat shikoyat kelganda ko‘rib, xarajatni kamaytirishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Monitoring jarayonida reja va fakt natijalari nima uchun taqqoslanadi?",
+    "options": [
+      {
+        "text": "Rejalashtirilgan va amaldagi natijalar tafovutini aniqlash uchun taqqoslanadi.",
+        "correct": true
+      },
+      {
+        "text": "Rejalashtirilgan va amaldagi narxlar tafovutini aniqlash uchun taqqoslanadi.",
+        "correct": false
+      },
+      {
+        "text": "Rejalashtirilgan va amaldagi reklamalar tafovutini aniqlash uchun taqqoslanadi.",
+        "correct": false
+      },
+      {
+        "text": "Rejalashtirilgan va amaldagi daromadlar tafovutini aniqlash uchun taqqoslanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Likert shkalasining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Mijoz fikri, munosabati va qoniqishini ball orqali o‘lchashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Korxona foydasi, xarajati va daromadini pul orqali o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat hajmi, sotuv va talabni natural birlik orqali o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xodimlar soni, ish vaqti va mehnat unumini vaqt orqali o‘lchashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question": "5 ballik Likert shkalasida 5 ball qanday mazmunni bildiradi?",
+    "options": [
+      {
+        "text": "5 ball to‘liq qo‘shilishni yoki juda yuqori bahoni bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "5 ball betaraflikni yoki o‘rtacha bahoni bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "5 ball qisman qo‘shilmaslikni yoki past bahoni bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "5 ball mutlaqo qo‘shilmaslikni yoki juda past bahoni bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Likert shkalasida neytral savolning asosiy afzalligi nimadan iborat?",
+    "options": [
+      {
+        "text": "Savol respondentni ijobiy yoki salbiy javobga majburlamaydi.",
+        "correct": true
+      },
+      {
+        "text": "Savol respondentni faqat ijobiy javobga yo‘naltiradi.",
+        "correct": false
+      },
+      {
+        "text": "Savol respondentni faqat salbiy javobga yo‘naltiradi.",
+        "correct": false
+      },
+      {
+        "text": "Savol respondentga faqat bitta javobni tanlashni buyuradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Intervyuning strukturali turi qanday tashkil etiladi?",
+    "options": [
+      {
+        "text": "Barcha respondentlarga bir xil savollar ketma-ketligi beriladi.",
+        "correct": true
+      },
+      {
+        "text": "Barcha respondentlarga turli savollar tasodifiy ketma-ketlikda beriladi.",
+        "correct": false
+      },
+      {
+        "text": "Barcha respondentlarga faqat ochiq savollar ixtiyoriy tartibda beriladi.",
+        "correct": false
+      },
+      {
+        "text": "Barcha respondentlarga faqat yopiq savollar turli tartibda beriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Yarim strukturali intervyuning asosiy xususiyati nimadan iborat?",
+    "options": [
+      {
+        "text": "Asosiy savollar oldindan belgilanib, qo‘shimcha savollar beriladi.",
+        "correct": true
+      },
+      {
+        "text": "Barcha savollar oldindan belgilanib, qo‘shimcha savollar berilmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Barcha savollar suhbat davomida tasodifiy shaklda ishlab chiqiladi.",
+        "correct": false
+      },
+      {
+        "text": "Barcha savollar faqat yopiq shaklda va o‘zgarmas tartibda beriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Intervyu natijalarini miqdoriy tahlilga tayyorlashda nima qilinadi?",
+    "options": [
+      {
+        "text": "Javoblar kodlashtirilib, takrorlanish va ulushlar hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Javoblar umumlashtirilib, faqat matn shaklida saqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Javoblar qisqartirilib, faqat eng uzun fikrlar saqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Javoblar saralanib, faqat ijobiy fikrlar tahlil qilinadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question": "SLI ko‘rsatkichlarining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Xizmat jarayonining real vaqt va samaradorlik ko‘rsatkichlarini o‘lchashdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Mijozning xizmatga bo‘lgan umumiy hissiy munosabatini o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Mijozning korxonani boshqalarga tavsiya qilish ehtimolini o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Mijozning kelajakdagi xarid qilish rejasini bevosita o‘lchashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Mystery Guest usulining asosiy maqsadi nimadan iborat?",
+    "options": [
+      {
+        "text": "Xizmat standartlarining amalda bajarilishini tekshirishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Mijozlarning umumiy qoniqish darajasini faqat anketa orqali o‘lchashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning kelajakdagi daromadlarini statistik usulda hisoblashdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Korxonaning reklama samaradorligini mijozlar soni orqali baholashdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "CSAT ko‘rsatkichi nimani o‘lchaydi?",
+    "options": [
+      {
+        "text": "Mijozning ko‘rsatilgan xizmatdan qoniqish darajasini o‘lchaydi.",
+        "correct": true
+      },
+      {
+        "text": "Mijozning korxonani boshqalarga tavsiya qilish ehtimolini o‘lchaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat jarayonining real vaqt ko‘rsatkichlarini bevosita o‘lchaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat standartlarining bajarilish darajasini yashirin tarzda o‘lchaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "NPS ko‘rsatkichi nimani o‘lchaydi?",
+    "options": [
+      {
+        "text": "Mijozning korxonani boshqalarga tavsiya qilish ehtimolini o‘lchaydi.",
+        "correct": true
+      },
+      {
+        "text": "Mijozning ko‘rsatilgan xizmatdan ayni paytdagi qoniqishini o‘lchaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat jarayonining real vaqt samaradorligini bevosita o‘lchaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xizmat standartlarining bajarilishini maxsus baholovchi orqali o‘lchaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question": "NPS hisoblashda qaysi guruhlar asosiy hisoblanadi?",
+    "options": [
+      {
+        "text": "NPS Promouterlar ulushidan Detraktorlar ulushini ayirish orqali hisoblanadi",
+        "correct": true
+      },
+      {
+        "text": "NPS Detraktorlar ulushidan Promouterlar ulushini ayirish orqali hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "NPS Passivlar ulushidan Promouterlar ulushini ayirish orqali hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "NPS Promouterlar va Passivlar ulushini qo‘shish orqali hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Turizm xizmatlari sifatini kompleks baholashda eng samarali yondashuv qaysi?",
+    "options": [
+      {
+        "text": "Bir nechta baholash usullarini o‘zaro integratsiyalash eng samarali yondashuvdir.",
+        "correct": true
+      },
+      {
+        "text": "Faqat anketa natijalaridan foydalanish eng samarali yondashuvdir.",
+        "correct": false
+      },
+      {
+        "text": "Faqat kuzatuv natijalaridan foydalanish eng samarali yondashuvdir.",
+        "correct": false
+      },
+      {
+        "text": "Faqat moliyaviy ko‘rsatkichlardan foydalanish eng samarali yondashuvdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question": "ISO 31000:2018 standarti turizmda qanday yo‘nalishga xizmat qiladi?",
+    "options": [
+      {
+        "text": "ISO 31000:2018 tashkilotlarda risklarni boshqarish bo‘yicha umumiy yondashuvni belgilaydi.",
+        "correct": true
+      },
+      {
+        "text": "ISO 31000:2018 mehmonxonalarda xizmat ko‘rsatish sifatining barcha talablarini belgilaydi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 31000:2018 oziq-ovqat mahsulotlarini ishlab chiqarish talablarini belgilaydi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 31000:2018 turistlarning iste’molchi huquqlarini to‘liq tartibga soladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "question": "ISO 31000 bo‘yicha risklarni boshqarish jarayonining dastlabki bosqichi qaysi?",
+    "options": [
+      {
+        "text": "Risklarni aniqlash jarayonning dastlabki bosqichi hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Risklarni moliyalashtirish jarayonning dastlabki bosqichi hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Risklarni sug‘urtalash jarayonning dastlabki bosqichi hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Risklarni hujjatlashtirish jarayonning dastlabki bosqichi hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question": "ISO 31000 jarayonida risklarni tahlil qilishdan keyin qaysi bosqich amalga oshiriladi?",
+    "options": [
+      {
+        "text": "Risklarni baholash bosqichi tahlildan keyin amalga oshiriladi.",
+        "correct": true
+      },
+      {
+        "text": "Risklarni sug‘urtalash bosqichi tahlildan keyin amalga oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Risklarni reklama qilish bosqichi tahlildan keyin amalga oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Risklarni moliyalashtirish bosqichi tahlildan keyin amalga oshiriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Bolalar turizmida xavfsizlik talabi nima sababdan yuqori bo‘ladi?",
+    "options": [
+      {
+        "text": "Bolaning xavfni mustaqil baholash imkoniyati cheklanganligi sababli xavfsizlik talabi yuqori bo‘ladi.",
+        "correct": true
+      },
+      {
+        "text": "Bolalarning turistik xizmatlardan foydalanish imkoniyati yuqori bo‘lganligi sababli xavfsizlik talabi yuqori bo‘ladi.",
+        "correct": false
+      },
+      {
+        "text": "Bolalarning turistik obyektlarni mustaqil tanlash imkoniyati yuqori bo‘lganligi sababli xavfsizlik talabi yuqori bo‘ladi.",
+        "correct": false
+      },
+      {
+        "text": "Bolalarning turistik marshrutlarni mustaqil tashkil etish imkoniyati yuqori bo‘lganligi sababli xavfsizlik talabi yuqori bo‘ladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Bolalar guruhi uchun xavfsizlik tizimida kim mas’ul shaxs sifatida belgilanadi?",
+    "options": [
+      {
+        "text": "Guruh uchun bir nafar rahbar mas’ul shaxs sifatida belgilanadi.",
+        "correct": true
+      },
+      {
+        "text": "Guruh uchun barcha turistlar birgalikda mas’ul shaxs sifatida belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Guruh uchun faqat transport haydovchisi mas’ul shaxs sifatida belgilanadi.",
+        "correct": false
+      },
+      {
+        "text": "Guruh uchun faqat mehmonxona xodimi mas’ul shaxs sifatida belgilanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Turist transport vositasida halok bo‘lganida javobgarlik qanday aniqlanadi?",
+    "options": [
+      {
+        "text": "Javobgarlik avariya sababi, tashuvchi, haydovchi, operator va sug‘urta holatiga qarab aniqlanadi.",
+        "correct": true
+      },
+      {
+        "text": "Javobgarlik faqat turistning safar davomida qilgan xarajatlariga qarab aniqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Javobgarlik faqat transport vositasining yo‘nalishiga va yo‘l uzunligiga qarab aniqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Javobgarlik faqat turistik guruhdagi turistlar soniga va safar muddatiga qarab aniqlanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Tur operator xavfsizlik talablarini bajarmasa, qanday javobgarlik yuzaga kelishi mumkin?",
+    "options": [
+      {
+        "text": "Tur operator fuqarolik javobgarligi va boshqa qonuniy javobgarlik turlariga tortilishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Tur operator faqat reklama faoliyatini vaqtincha to‘xtatish javobgarligiga tortilishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Tur operator faqat turistik xizmatlar narxini kamaytirish javobgarligiga tortilishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Tur operator faqat ekskursiya dasturini o‘zgartirish javobgarligiga tortilishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Mehmonxonada turistlarning qanday ma’lumotlari qayta ishlanishi mumkin?",
+    "options": [
+      {
+        "text": "F.I.Sh., pasport, telefon, elektron pochta, bron va to‘lov ma’lumotlari qayta ishlanishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Faqat turistning ismi, yashash manzili, sayohat vaqti va ekskursiya ma’lumotlari qayta ishlanishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Faqat turistning telefon raqami, xona raqami, transport turi va ovqatlanish ma’lumotlari qayta ishlanishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Faqat turistning pasporti, mehmonxona xonasi, ekskursiya va xarid ma’lumotlari qayta ishlanishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Mehmonxonadagi PMS tizimining asosiy vazifasi nima?",
+    "options": [
+      {
+        "text": "PMS mehmon ma’lumotlari, bron, kirish-chiqish va qo‘shimcha xizmatlarni boshqaradi.",
+        "correct": true
+      },
+      {
+        "text": "PMS faqat mehmonxonaning videokuzatuv kameralarini boshqaradi va arxivni saqlaydi.",
+        "correct": false
+      },
+      {
+        "text": "PMS faqat mehmonxonaning Wi-Fi tarmog‘ini boshqaradi va internet tezligini nazorat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "PMS faqat mehmonxonaning yong‘in signalizatsiyasi va evakuatsiya tizimini boshqaradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Mehmonxonada CCTV tizimining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "CCTV videokuzatuvni amalga oshirish va xavfsizlik holatini nazorat qilishga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "CCTV mehmonlarning bronlarini qayta ishlash va xona tanlash jarayonini boshqarishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "CCTV mehmonlarning to‘lovlarini qayta ishlash va bank operatsiyalarini boshqarishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "CCTV mehmonlarning elektron pochtasini qayta ishlash va xabarlarini boshqarishga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Turizm obyektlarida yong‘in xavfsizligining birinchi bosqichi nima?",
+    "options": [
+      {
+        "text": "Yong‘inni erta aniqlash va signalizatsiya orqali xabar berish birinchi bosqich hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Yong‘in oqibatida yetkazilgan moddiy zararni hisoblash birinchi bosqich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Yong‘indan keyin xizmatlarni qayta tashkil etish birinchi bosqich hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Yong‘indan keyin turistlar fikrini o‘rganish birinchi bosqich hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Mehmonxonada yong‘in sodir bo‘lganda dastlab qanday harakat amalga oshiriladi?",
+    "options": [
+      {
+        "text": "Tutun aniqlanadi, signal beriladi va xavfsiz evakuatsiya jarayoni boshlanadi.",
+        "correct": true
+      },
+      {
+        "text": "Mehmonlarning bron ma’lumotlari tekshiriladi, signal beriladi va xizmat ko‘rsatish jarayoni davom ettiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlarning to‘lov ma’lumotlari tekshiriladi, xavfsiz evakuatsiya va moliyaviy hisobotlar tayyorlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlarning fikrlari yig‘iladi , tutun aniqlanadi va xizmat sifatini baholash jarayoni boshlanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Favqulodda vaziyatlarning asosiy turlaridan biri qaysi?",
+    "options": [
+      {
+        "text": "Tabiiy, texnogen, transport, tibbiy, ijtimoiy va axborot xavflari mavjud.",
+        "correct": true
+      },
+      {
+        "text": "Moliyaviy, marketing, reklama, savdo, investitsiya va kredit xavflari mavjud.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona, restoran, transport, ekskursiya, savdo va bank xavflari mavjud.",
+        "correct": false
+      },
+      {
+        "text": "Mahalliy, xalqaro, mavsumiy, iqtisodiy, ijtimoiy va xizmat xavflari mavjud.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Favqulodda vaziyatga javob berish mexanizmining dastlabki bosqichi nima?",
+    "options": [
+      {
+        "text": "Xavfni aniqlash va vaziyatni dastlabki baholash mexanizmning birinchi bosqichidir.",
+        "correct": true
+      },
+      {
+        "text": "Yetkazilgan zararni hisoblash va moliyaviy hisobot tayyorlash mexanizmning birinchi bosqichidir.",
+        "correct": false
+      },
+      {
+        "text": "Turistlarning fikrlarini yig‘ish va xizmat sifatini baholash mexanizmning birinchi bosqichidir.",
+        "correct": false
+      },
+      {
+        "text": "Korxona faoliyatini qayta tashkil etish va yangi xizmatlarni joriy qilish mexanizmning birinchi bosqichidir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "ISO 22301:2019 standarti nimaga bag‘ishlangan?",
+    "options": [
+      {
+        "text": "ISO 22301:2019 tashkilotlarda faoliyat uzluksizligini boshqarish tizimiga bag‘ishlangan.",
+        "correct": true
+      },
+      {
+        "text": "ISO 22301:2019 mehmonxonalarda xizmat sifatini boshqarish tizimiga bag‘ishlangan.",
+        "correct": false
+      },
+      {
+        "text": "ISO 22301:2019 turistik korxonalarda oziq-ovqat xavfsizligini boshqarish tizimiga bag‘ishlangan.",
+        "correct": false
+      },
+      {
+        "text": "ISO 22301:2019 turistik korxonalarda ekologik xavfsizlikni boshqarish tizimiga bag‘ishlangan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "ISO 22301 ning asosiy maqsadlaridan biri qaysi?",
+    "options": [
+      {
+        "text": "Favqulodda uzilishlardan himoyalanish va xizmatlarning uzluksizligini ta’minlashdir.",
+        "correct": true
+      },
+      {
+        "text": "Turistik xizmatlar narxini pasaytirish va mijozlar sonini ko‘paytirishdir.",
+        "correct": false
+      },
+      {
+        "text": "Reklama xarajatlarini kamaytirish va marketing samaradorligini oshirishdir.",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona xonalarini ko‘paytirish va xizmatlar assortimentini kengaytirishdir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "ISO 22483:2020 standarti turizmda nimaga tegishli?",
+    "options": [
+      {
+        "text": "ISO 22483:2020 mehmonxonalarda xizmat ko‘rsatish va xavfsizlik talablarini belgilaydi.",
+        "correct": true
+      },
+      {
+        "text": "ISO 22483:2020 turistik korxonalarda faqat moliyaviy hisobot talablarini belgilaydi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 22483:2020 transport korxonalarida faqat yo‘l harakati talablarini belgilaydi.",
+        "correct": false
+      },
+      {
+        "text": "ISO 22483:2020 restoranlarda faqat reklama va marketing talablarini belgilaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "ISO 22483:2020 mehmonxona xavfsizligida qaysi yo‘nalishni qamrab oladi?",
+    "options": [
+      {
+        "text": "Jismoniy xavfsizlik, yong‘in xavfsizligi va favqulodda holatlarga tayyorgarlikni qamrab oladi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat mehmonxona reklamasini, narx siyosatini va marketing faoliyatini qamrab oladi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat mehmonxona daromadini, xarajatlarini va investitsiya faoliyatini qamrab oladi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat mehmonxona dizaynini, interyerini va tashqi ko‘rinishini qamrab oladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Riskni baholashning taqdimotdagi soddalashtirilgan formulasi qaysi?",
+    "options": [
+      {
+        "text": "Risk ehtimollik va oqibat ko‘paytmasi sifatida hisoblanadi.",
+        "correct": true
+      },
+      {
+        "text": "Risk ehtimollik va xarajat yig‘indisi sifatida hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Risk oqibat va daromad yig‘indisi sifatida hisoblanadi.",
+        "correct": false
+      },
+      {
+        "text": "Risk xarajat va foyda ko‘paytmasi sifatida hisoblanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Risk qiymati 16 bo‘lgan kiberhujum qanday darajaga kiradi?",
+    "options": [
+      {
+        "text": "16 ballik kiberhujum juda yuqori risk darajasiga kiradi.",
+        "correct": true
+      },
+      {
+        "text": "16 ballik kiberhujum o‘rtacha risk darajasiga kiradi.",
+        "correct": false
+      },
+      {
+        "text": "16 ballik kiberhujum past risk darajasiga kiradi.",
+        "correct": false
+      },
+      {
+        "text": "16 ballik kiberhujum qabul qilinadigan risk darajasiga kiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Risk matritsasida ehtimollik va oqibat qiymatlari nima uchun qo‘llanadi?",
+    "options": [
+      {
+        "text": "Ehtimollik va oqibat qiymatlari risk darajasini aniqlash uchun qo‘llanadi.",
+        "correct": true
+      },
+      {
+        "text": "Ehtimollik va oqibat qiymatlari xizmat narxini aniqlash uchun qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Ehtimollik va oqibat qiymatlari korxona foydasini aniqlash uchun qo‘llanadi.",
+        "correct": false
+      },
+      {
+        "text": "Ehtimollik va oqibat qiymatlari turistlar sonini aniqlash uchun qo‘llanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Xavfsizlik investitsiyasining iqtisodiy samarasi nimani ko‘rsatadi?",
+    "options": [
+      {
+        "text": "Xavfsizlik investitsiyasi zararlarni kamaytirish va iqtisodiy natijani yaxshilash imkonini ko‘rsatadi.",
+        "correct": true
+      },
+      {
+        "text": "Xavfsizlik investitsiyasi faqat korxonaning reklama xarajatlarini oshirish imkonini ko‘rsatadi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlik investitsiyasi faqat korxonaning xizmat narxlarini oshirish imkonini ko‘rsatadi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlik investitsiyasi faqat korxonaning xodimlar sonini ko‘paytirish imkonini ko‘rsatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Xavfsizlikka investitsiyaning uzoq muddatli natijalaridan biri qaysi?",
+    "options": [
+      {
+        "text": "Xavfsiz muhit mijozlar ishonchini oshirib, korxona reputatsiyasini mustahkamlaydi.",
+        "correct": true
+      },
+      {
+        "text": "Xavfsiz muhit faqat korxonaning reklama xarajatlarini oshirib, foydani kamaytiradi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsiz muhit faqat xizmat narxlarini oshirib, turistlar oqimini ko’paytiradi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsiz muhit faqat xodimlar sonini oshirib, korxona xarajatlarini ko‘paytiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Turistning xavfsizlik haqidagi qaroriga qaysi omillar ta’sir qiladi?",
+    "options": [
+      {
+        "text": "Joylashtirish, transport, ma’lumotlar, sog‘liq, favqulodda va ekologik xavfsizlik ta’sir qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat mehmonxona narxi, restoran menyusi va ekskursiya davomiyligi ta’sir qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat reklama hajmi, chegirmalar va turistik paket narxi ta’sir qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat transport turi, xarid hajmi va ko‘ngilochar xizmatlar soni ta’sir qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Turistik destinatsiyada integratsiyalashgan xavfsizlik modelining asosiy g‘oyasi nimadan",
+    "options": [
+      {
+        "text": "Xavfsizlikni davlat, biznes, turizm boshqaruvi va boshqa ishtirokchilar hamkorligida tashkil etishdan iborat.",
+        "correct": true
+      },
+      {
+        "text": "Xavfsizlikni faqat davlat organlari tomonidan markazlashtirilgan holda tashkil etishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlikni faqat turistik operatorlar va mehmonxonalar hamkorligida tashkil etishdan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlikni faqat xalqaro tashkilotlar va sug‘urta kompaniyalari hamkorligida tashkil etishdan iborat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Turizmda xavfsizlikning umumiy strategik ahamiyati nimada?",
+    "options": [
+      {
+        "text": "Xavfsizlik turist ishonchini, destinatsiya imijini va turizmning barqaror rivojlanishini ta’minlaydi.",
+        "correct": true
+      },
+      {
+        "text": "Xavfsizlik faqat turistik korxonalarning joriy xarajatlarini va reklama faoliyatini boshqarishni ta’minlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlik faqat turistik xizmatlarning narxini va korxonalarning moliyaviy hisobotini boshqarishni ta’minlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Xavfsizlik faqat turistlarning xarid faoliyatini va mehmonxonalarning bandlik darajasini boshqarishni ta’minlaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Raqamlashtirish va avtomatlashtirish o‘rtasidagi asosiy farq nimada?",
+    "options": [
+      {
+        "text": "Raqamlashtirish ma’lumotni raqamli shaklga o‘tkazsa, avtomatlashtirish jarayonni avtomatik bajaradi.",
+        "correct": true
+      },
+      {
+        "text": "Raqamlashtirish jarayonni avtomatik bajarsa, avtomatlashtirish ma’lumotni qog‘oz shakliga o‘tkazadi.",
+        "correct": false
+      },
+      {
+        "text": "Raqamlashtirish faqat robotlardan foydalansa, avtomatlashtirish faqat inson mehnatiga tayanadi.",
+        "correct": false
+      },
+      {
+        "text": "Raqamlashtirish xizmatni to‘xtatsa, avtomatlashtirish mijoz bilan aloqani butunlay bekor qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Mehmonxona avtomatlashtirilgan tizimida harakat sensori qanday vazifani bajaradi?",
+    "options": [
+      {
+        "text": "Harakat sensori xonada mehmon bor-yo‘qligini aniqlashga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Harakat sensori mehmonning to‘lov summasini avtomatik ravishda hisoblashga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Harakat sensori mehmonning bron muddatini avtomatik ravishda uzaytirishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Harakat sensori mehmonning restoran buyurtmasini avtomatik ravishda tasdiqlashga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Xona bo‘shligi aniqlanganda avtomatlashtirilgan tizim qanday harakat qilishi mumkin?",
+    "options": [
+      {
+        "text": "Tizim yoritishni o‘chirib, konditsionerni tejamkor rejimga o‘tkazishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Tizim yoritishni kuchaytirib, konditsionerni tejamkor rejimga o‘tkazishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Tizim televizorni o’chirib, xonadagi barcha elektr qurilmalarini faollashtirishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Tizim xonani band deb belgilab, barcha energiya qurilmalarini doimiy ishlatishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "BMS tizimining mehmonxonadagi asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "BMS bino tizimlarini boshqarish va ularning ishlashini avtomatlashtirishga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "BMS faqat mehmonlarning bronlarini qabul qilish va ularni bekor qilishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "BMS faqat mijozlarning shikoyatlarini yig‘ish va ularni baholashga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "BMS faqat restoran buyurtmalarini qabul qilish va to‘lovlarni qayta ishlashga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Smart room texnologiyasining asosiy maqsadi nimadan iborat?",
+    "options": [
+      {
+        "text": "Smart room mehmon qulayligini oshirish, samaradorlikni ta’minlash va energiyani tejashga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Smart room mehmon xizmatlarini qisqartirish, energiya sarfini oshirish va nazoratni kamaytirishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Smart room xodimlar ishini murakkablashtirish, xizmat vaqtini uzaytirish va xarajatlarni oshirishga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Smart room faqat xona dizaynini o‘zgartirish, jihozlarni ko‘paytirish va xizmat narxini oshirishga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Hilton Singapore Orchard mehmonxonasida smart room texnologiyasining qanday",
+    "options": [
+      {
+        "text": "Xonada motion sensorlardan foydalanib, mehmon chiqib ketganda energiya sarfi kamaytiriladi.",
+        "correct": true
+      },
+      {
+        "text": "Xonada faqat qo‘lda boshqariladigan chiroqlardan foydalanib, energiya sarfi oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Xonada barcha qurilmalar doimiy ishlatilib, mehmon qulayligi maksimal darajada ta’minlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Xonada faqat mexanik kalitlardan foydalanib, energiya nazorati xodimlarga topshiriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "IoT texnologiyasi turizmda nimani anglatadi?",
+    "options": [
+      {
+        "text": "IoT fizik qurilmalarning internet orqali ma’lumot almashish imkonini beruvchi texnologiyadir.",
+        "correct": true
+      },
+      {
+        "text": "IoT faqat mehmonxona xodimlari bilan telefon orqali ma’lumot almashish tizimidir.",
+        "correct": false
+      },
+      {
+        "text": "IoT faqat turistik korxonalar o‘rtasida ma’lumot almashish tizimidir.",
+        "correct": false
+      },
+      {
+        "text": "IoT faqat mijozlarning fikrlarini an’anaviy anketa orqali yig‘ish tizimidir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Occupancy sensorining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Occupancy sensori xonada odam bor yoki yo‘qligini aniqlashga xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Occupancy sensori xonadagi suv sarfini va bosimini aniqlashga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Occupancy sensori xonadagi mehmonlarning to‘lov tarixini aniqlashga xizmat qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Occupancy sensori xonadagi xizmatlarning umumiy narxini aniqlashga xizmat qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "question": "IoT texnologiyasi xavfsizlikni ta’minlashda qanday imkoniyat beradi?",
+    "options": [
+      {
+        "text": "IoT xavflarni oldindan aniqlash va tegishli xodimlarga tezkor signal yuborish imkonini beradi.",
+        "correct": true
+      },
+      {
+        "text": "IoT xavflarni faqat hodisa sodir bo‘lgandan keyin aniqlash va qo‘lda qayd etish imkonini beradi.",
+        "correct": false
+      },
+      {
+        "text": "IoT xavfsizlik muammolarini faqat mijoz shikoyatidan keyin ko‘rib chiqish imkonini beradi.",
+        "correct": false
+      },
+      {
+        "text": "IoT xavfsizlik holatini faqat ish kuni yakunida umumlashtirish imkonini beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "question": "IoT qurilmalari texnik xizmat ko‘rsatishda qanday afzallik beradi?",
+    "options": [
+      {
+        "text": "IoT qurilmalar holatini doimiy monitoring qilib, anomal holatda texnik xodimga topshiriq yuboradi.",
+        "correct": true
+      },
+      {
+        "text": "IoT qurilmalar faqat buzilgandan keyin xodimga ma’lumot berib, ta’mirlashni boshlaydi.",
+        "correct": false
+      },
+      {
+        "text": "IoT qurilmalar faqat mehmon shikoyatidan keyin nosozlik haqida ma’lumot beradi.",
+        "correct": false
+      },
+      {
+        "text": "IoT qurilmalar faqat texnik xodimning qo‘lda tekshiruvidan keyin ma’lumotlarni qayta ishlaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Predictive maintenance (Bashoratli model) an’anaviy reaktiv xizmatdan nimasi bilan farq",
+    "options": [
+      {
+        "text": "Bashoratli model muammoni yuzaga kelishidan oldin aniqlab, profilaktik chorani boshlaydi.",
+        "correct": true
+      },
+      {
+        "text": "Bashoratli model muammo yuzaga kelgandan keyin mehmon shikoyatini qabul qilib, ta’mirlashni boshlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Bashoratli model muammoni aniqlamasdan, barcha qurilmalarni reja asosida almashtirishni boshlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Bashoratli model faqat xizmat ko‘rsatish xarajatlarini hisoblab, texnik jarayonga aralashmaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Predictive maintenance (Bashoratli model) uchun qaysi ma’lumotlardan foydalanish",
+    "options": [
+      {
+        "text": "Harorat, vibratsiya, energiya sarfi va ishlash vaqti kabi ko‘rsatkichlardan foydalaniladi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat mehmonning ismi, telefon raqami va pasport ma’lumotlaridan foydalaniladi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat mehmonxona reklamalari, chegirmalari va marketing xarajatlaridan foydalaniladi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat restoran menyusi, xona narxi va ekskursiya dasturlari haqidagi ma’lumotlardan foydalaniladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Bashoratli texnik xizmatning asosiy natijalaridan biri qaysi?",
+    "options": [
+      {
+        "text": "Bashoratli texnik xizmat nosozliklarni kamaytirib, xizmat uzluksizligini va mehmon qoniqishini oshiradi.",
+        "correct": true
+      },
+      {
+        "text": "Bashoratli texnik xizmat nosozliklarni ko‘paytirib, xizmat uzilishlarini va mehmon shikoyatlarini oshiradi.",
+        "correct": false
+      },
+      {
+        "text": "Bashoratli texnik xizmat texnik xarajatlarni ko‘paytirib, qurilmalar ishlash muddatini qisqartiradi.",
+        "correct": false
+      },
+      {
+        "text": "Bashoratli texnik xizmat monitoringni kamaytirib, texnik xizmat ko‘rsatish vaqtini uzaytiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Big Data turizm korxonalariga qanday imkoniyat beradi?",
+    "options": [
+      {
+        "text": "Big Data turli manbalardagi katta hajmdagi ma’lumotlarni birlashtirib, tahlil qilish imkonini beradi.",
+        "correct": true
+      },
+      {
+        "text": "Big Data faqat bitta manbadan olingan kichik hajmdagi ma’lumotlarni qo‘lda qayta ishlash imkonini beradi.",
+        "correct": false
+      },
+      {
+        "text": "Big Data ma’lumotlarni faqat qog‘oz shaklida saqlash va ularni qo‘lda tahlil qilish imkonini beradi.",
+        "correct": false
+      },
+      {
+        "text": "Big Data faqat mehmonlarning shaxsiy ma’lumotlarini saqlash va ularni boshqa tizimlardan ajratish imkonini beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Big Data turizm korxonalarida qaysi manbalardan ma’lumot olishi mumkin?",
+    "options": [
+      {
+        "text": "Booking, CRM, POS, Google sharhlari, ijtimoiy tarmoqlar, mobil ilovalar va IoT sensorlaridan olishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Faqat mehmonxona xodimlarining og‘zaki hisobotlari ,mobil ilovalar va IoT sensorlaridan olishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Faqat reklama bannerlari, CRM, POS, bosma kataloglar va turistik bukletlardan ma’lumot olishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Faqat bank hujjatlari, Google sharhlari ,soliq hisobotlari va yillik moliyaviy hisobotlardan ma’lumot olishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Big Data tahlilida ma’lumotlarning “xilma-xilligi” nimani bildiradi?",
+    "options": [
+      {
+        "text": "Xilma-xillik ma’lumotlarning turli shakl va manbalardan kelishini bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "Xilma-xillik ma’lumotlarning faqat bitta manbadan kelishini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Xilma-xillik ma’lumotlarning faqat raqamli shaklda saqlanishini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "Xilma-xillik ma’lumotlarning faqat real vaqt rejimida kelishini bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Big Data asosida turizm korxonasi qanday qarorlarni yaxshilashi mumkin?",
+    "options": [
+      {
+        "text": "Big Data narx siyosati, marketing, segmentatsiya va xizmatlarni personalizatsiya qilishni yaxshilashi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Big Data faqat korxonaning huquqiy hujjatlarini tayyorlashi, ularni arxivlashni yaxshilashi, marketing, segmentatsiya va xizmatlarni yaxshilashi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Big Data faqat xodimlarning ish jadvalini qo‘lda tuzish, narx siyosati va qog‘oz hisobotlarini ko‘paytirishni yaxshilashi mumkin",
+        "correct": false
+      },
+      {
+        "text": "Big Data faqat mehmonxona binosining tashqi ko‘rinishi va interyerini o‘zgartirishni , xizmatlarni personalizatsiya qilishni yaxshilashi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "question": "IoT, Big Data, AI va Automation o‘rtasidagi texnologik zanjir qanday ishlaydi?",
+    "options": [
+      {
+        "text": "IoT ma’lumot yig‘adi, Big Data saqlab-tahlil qiladi, AI naqsh topib prognozlaydi, Automation harakatni bajaradi.",
+        "correct": true
+      },
+      {
+        "text": "IoT qaror qabul qiladi, Big Data qurilmalarni boshqaradi, AI ma’lumot yig‘adi, Automation faqat ma’lumot saqlaydi.",
+        "correct": false
+      },
+      {
+        "text": "IoT faqat prognozlaydi, Big Data xizmat ko‘rsatadi, AI ma’lumot yig‘adi, Automation faqat tahlil qiladi.",
+        "correct": false
+      },
+      {
+        "text": "IoT ma’lumotni o‘chiradi, Big Data qaror qabul qiladi, AI xizmatni to‘xtatadi, Automation ma’lumot yig‘adi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Taj Hotels tajribasida IoT texnologiyasi qaysi yo‘nalishda qo‘llangan?",
+    "options": [
+      {
+        "text": "IoT texnologiyasi energiya iste’molini optimallashtirish va xarajatlarni kamaytirishda qo‘llangan.",
+        "correct": true
+      },
+      {
+        "text": "IoT texnologiyasi faqat mehmonlarning ekskursiya dasturlarini tuzish va bronlashda qo‘llangan.",
+        "correct": false
+      },
+      {
+        "text": "IoT texnologiyasi faqat restoran menyusini ishlab chiqish va taomlarni reklama qilishda qo‘llangan.",
+        "correct": false
+      },
+      {
+        "text": "IoT texnologiyasi faqat mehmonlarning shaxsiy profillarini yaratish va sharhlarini yig‘ishda qo‘llangan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Taj Hotels tajribasida IoT tizimi qanday ishlaydi?",
+    "options": [
+      {
+        "text": "Sensorlar ma’lumotni yig‘ib, markaziy tizimga yuboradi va tizim energiya boshqaruvini optimallashtiradi.",
+        "correct": true
+      },
+      {
+        "text": "Sensorlar ma’lumotni faqat qog‘ozga yozib, xodimga topshiradi va boshqaruv qo‘lda amalga oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Sensorlar ma’lumotni faqat mehmon shikoyatidan keyin yig‘ib, texnik xodimga yuboradi.",
+        "correct": false
+      },
+      {
+        "text": "Sensorlar ma’lumotni faqat oy oxirida yig‘ib, yillik hisobot uchun saqlab qo‘yadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "question": "MOOM Hotel misolida Siemens Desigo CC tizimining vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Desigo CC energiya ishlab chiqarish, taqsimlash va iste’molini yagona tizimda boshqaradi.",
+        "correct": true
+      },
+      {
+        "text": "Desigo CC faqat mehmonlarning bronlarini qabul qilish va xonalarni taqsimlashni boshqaradi.",
+        "correct": false
+      },
+      {
+        "text": "Desigo CC faqat restoran buyurtmalarini qabul qilish va mehmon to‘lovlarini boshqaradi.",
+        "correct": false
+      },
+      {
+        "text": "Desigo CC faqat mehmonlarning fikrlarini yig‘ish va xizmat sifatini baholashni boshqaradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "question": "Mehmonxona chatbotining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Chatbot mehmonlarning savollariga kecha-kunduz javob berib, bron, narx va xizmatlar haqida ma’lumot beradi.",
+        "correct": true
+      },
+      {
+        "text": "Chatbot faqat xodimlarning ish jadvalini tuzib, mehmonlarning savollariga javob beradi.",
+        "correct": false
+      },
+      {
+        "text": "Chatbot faqat mehmonxona xarajatlarini hisoblab, mijozlar bilan aloqa qiladi.",
+        "correct": false
+      },
+      {
+        "text": "Chatbot faqat reklama materiallarini tayyorlab, mehmonlarning bronlarini qayta ishlaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Virtual konsyerjning chatbotdan farqli jihati nimada?",
+    "options": [
+      {
+        "text": "Virtual konsyerj mehmon ehtiyojiga mos maslahat va xizmat tavsiyalarini berishga yo‘naltiriladi.",
+        "correct": true
+      },
+      {
+        "text": "Virtual konsyerj faqat mehmonlarning umumiy savollariga standart javoblarni qaytarishga yo‘naltiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Virtual konsyerj faqat xodimlarning ichki hujjatlarini boshqarish va hisobot tayyorlashga yo‘naltiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Virtual konsyerj faqat mehmonxonaning moliyaviy operatsiyalarini nazorat qilishga yo‘naltiriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "question": "AI personalizatsiyasining asosiy mohiyati nimadan iborat?",
+    "options": [
+      {
+        "text": "AI personalizatsiyasi mehmonning oldingi xatti-harakati va ehtiyojlari asosida individual takliflar shakllantiradi.",
+        "correct": true
+      },
+      {
+        "text": "AI personalizatsiyasi barcha mehmonlarga ularning ehtiyojidan qat’i nazar bir xil xizmatlarni taklif qiladi.",
+        "correct": false
+      },
+      {
+        "text": "AI personalizatsiyasi faqat mehmonxona xodimlariga xizmat ko‘rsatish bo‘yicha umumiy ko‘rsatmalar beradi.",
+        "correct": false
+      },
+      {
+        "text": "AI personalizatsiyasi faqat mehmonlarning shaxsiy ma’lumotlarini o‘chirib, anonim xizmatlarni taklif qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Hilton AI Planner xizmatining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Hilton AI Planner mehmonlarga mehmonxona tanlash va sayohatni rejalashtirishda suhbat asosida yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "Hilton AI Planner faqat mehmonxona xodimlarining ish jadvalini tuzish va nazorat qilishda yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "Hilton AI Planner faqat mehmonxona binosining energiya sarfini hisoblash va boshqarishda yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "Hilton AI Planner faqat mehmonxona restoranidagi oziq-ovqat chiqindilarini hisoblashda yordam beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Oracle Hospitality tadqiqotida iste’molchilarning AI personalizatsiyasiga munosabati",
+    "options": [
+      {
+        "text": "Tadqiqotda iste’molchilarning 74 foizi AI orqali xizmat va takliflarni individuallashtirishga qiziqishini bildirgan.",
+        "correct": true
+      },
+      {
+        "text": "Tadqiqotda iste’molchilarning 54 foizi AI orqali xizmat va takliflarni individuallashtirishga qiziqishini bildirgan.",
+        "correct": false
+      },
+      {
+        "text": "Tadqiqotda iste’molchilarning 44 foizi AI orqali xizmat va takliflarni individuallashtirishga qiziqishini bildirgan.",
+        "correct": false
+      },
+      {
+        "text": "Tadqiqotda iste’molchilarning 34 foizi AI orqali xizmat va takliflarni individuallashtirishga qiziqishini bildirgan.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "question": "AI asosidagi oziq-ovqat chiqindilarini boshqarishning asosiy maqsadi nima?",
+    "options": [
+      {
+        "text": "AI oziq-ovqat chiqindilarini aniqlash, tahlil qilish va ularni kamaytirishga yordam beradi.",
+        "correct": true
+      },
+      {
+        "text": "AI oziq-ovqat chiqindilarini ko‘paytirish, ularni yashirish va xarajatlarni oshirishga yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "AI oziq-ovqat chiqindilarini faqat xodimlar tomonidan qo‘lda hisoblash va saqlashga yordam beradi.",
+        "correct": false
+      },
+      {
+        "text": "AI oziq-ovqat chiqindilarini faqat restoran menyusidan chiqarish va xizmatlarni kamaytirishga yordam beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "question": "Winnow platformasining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Winnow kamera va sun’iy intellekt yordamida oziq-ovqat chiqindilarini aniqlab, tahlil qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Winnow mehmonlarning bronlarini boshqarib, xonalarni avtomatik ravishda taqsimlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Sinnow transport marshrutlarini boshqarib, turistlar harakatini avtomatik ravishda rejalashtiradi.",
+        "correct": false
+      },
+      {
+        "text": "Winnow mehmonlarning to‘lovlarini qayta ishlab, restoran daromadlarini avtomatik ravishda hisoblaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Zamonaviy texnologiyalar turizm xavfsizligiga qanday ta’sir ko‘rsatadi?",
+    "options": [
+      {
+        "text": "Texnologiyalar real vaqt monitoringi, avtomatik ogohlantirish va xavflarni oldindan aniqlash imkonini beradi.",
+        "correct": true
+      },
+      {
+        "text": "Texnologiyalar xavfsizlik monitoringini kamaytirib, favqulodda vaziyatlarda javob berish vaqtini uzaytiradi.",
+        "correct": false
+      },
+      {
+        "text": "Texnologiyalar xavfsizlik ma’lumotlarini faqat hodisa sodir bo‘lgandan keyin qayta ishlash imkonini beradi.",
+        "correct": false
+      },
+      {
+        "text": "Texnologiyalar xavfsizlik nazoratini faqat xodimlarning qo‘lda bajaradigan ishlariga bog‘lab qo‘yadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Texnologiyalarning shaxsiy ma’lumotlar bilan bog‘liq asosiy xavfi nimada?",
+    "options": [
+      {
+        "text": "Shaxsiy ma’lumotlarning sizib chiqishi va noto‘g‘ri foydalanilishi mijoz ishonchiga zarar yetkazishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "Shaxsiy ma’lumotlarning raqamli tizimda saqlanishi xizmat sifatini har doim avtomatik ravishda oshiradi.",
+        "correct": false
+      },
+      {
+        "text": "Shaxsiy ma’lumotlarning ko‘payishi barcha mijozlar uchun xizmatlarni avtomatik ravishda tenglashtiradi.",
+        "correct": false
+      },
+      {
+        "text": "Shaxsiy ma’lumotlarning tizimda qayta ishlanishi kiberxavflarni doimiy ravishda butunlay yo‘q qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Algoritmlardan foydalanishdagi muammolardan biri qaysi?",
+    "options": [
+      {
+        "text": "Noto‘g‘ri yoki bir tomonlama ma’lumotlar algoritmning adolatsiz qaror chiqarishiga olib kelishi mumkin.",
+        "correct": true
+      },
+      {
+        "text": "To‘liq va sifatli ma’lumotlar algoritmning har doim noto‘g‘ri qaror chiqarishiga olib kelishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Raqamli ma’lumotlarning ko‘pligi algoritmning barcha xatolarini avtomatik ravishda yo‘q qilishi mumkin.",
+        "correct": false
+      },
+      {
+        "text": "Algoritmning ishlashi inson nazoratini butunlay bekor qilib, barcha qarorlarni xavfsiz holga keltirishi mumkin.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Raqamli inklyuziya muammosi nimani anglatadi?",
+    "options": [
+      {
+        "text": "turistlar raqamli qurilmalar va xizmatlardan foydalanishda qiyinchilikka duch kelishi mumkinligini anglatadi.",
+        "correct": true
+      },
+      {
+        "text": "Barcha turistlar raqamli qurilmalar va xizmatlardan bir xil darajada foydalanishini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat xodimlar raqamli xizmatlardan foydalanishi va turistlar ulardan foydalanmasligini anglatadi.",
+        "correct": false
+      },
+      {
+        "text": "Raqamli xizmatlarning barcha turistlar uchun avtomatik ravishda teng imkoniyat yaratishini anglatadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "question": "Texnologik investitsiyaning iqtisodiy samaradorligi qanday aniqlanadi?",
+    "options": [
+      {
+        "text": "Texnologik investitsiyaning iqtisodiy samaradorligi olingan iqtisodiy samaraning xarajatlarga nisbatidir.",
+        "correct": true
+      },
+      {
+        "text": "Texnologik investitsiyaning iqtisodiy samaradorligi jami xarajatlarning olingan daromadga nisbatidir.",
+        "correct": false
+      },
+      {
+        "text": "Texnologik investitsiyaning iqtisodiy samaradorligi jami daromadning xodimlar soniga nisbatidir",
+        "correct": false
+      },
+      {
+        "text": "Texnologik investitsiyaning iqtisodiy samaradorligi xizmat hajmining turistlar soniga nisbatidir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Texnologiyaga 100 mln so‘m investitsiya qilinib, 140 mln so‘mlik iqtisodiy natija",
+    "options": [
+      {
+        "text": "Texnologiyadan olingan sof iqtisodiy samara 40 mln so‘mni tashkil etadi.",
+        "correct": true
+      },
+      {
+        "text": "Texnologiyadan olingan sof iqtisodiy samara 20 mln so‘mni tashkil etadi.",
+        "correct": false
+      },
+      {
+        "text": "Texnologiyadan olingan sof iqtisodiy samara 60 mln so‘mni tashkil etadi.",
+        "correct": false
+      },
+      {
+        "text": "Texnologiyadan olingan sof iqtisodiy samara 80 mln so‘mni tashkil etadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Texnologik investitsiya bo‘yicha ROI 40 foiz bo‘lishi nimani bildiradi?",
+    "options": [
+      {
+        "text": "ROI 40 foiz investitsiya sof 40 foizlik iqtisodiy samara berganini bildiradi.",
+        "correct": true
+      },
+      {
+        "text": "ROI 40 foiz investitsiya xarajatlari 40 foizga oshganini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "ROI 40 foiz xizmatlar hajmi 40 foizga kamayganini bildiradi.",
+        "correct": false
+      },
+      {
+        "text": "ROI 40 foiz turistlar soni 40 foizga kamayganini bildiradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "question": "CIA triadasining tarkibiy qismlari qaysilar?",
+    "options": [
+      {
+        "text": "Maxfiylik, yaxlitlik va mavjudlik",
+        "correct": true
+      },
+      {
+        "text": "Tezlik, qulaylik va , yaxlitlik",
+        "correct": false
+      },
+      {
+        "text": "Maxfiylik, narx va reklama",
+        "correct": false
+      },
+      {
+        "text": "Nazorat, marketing va mavjudlik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "question": "CIA triadasida maxfiylik nimani anglatadi?",
+    "options": [
+      {
+        "text": "Axborotdan faqat tegishli huquqqa ega shaxslar foydalanishi",
+        "correct": true
+      },
+      {
+        "text": "Axborotning istalgan xodim tomonidan o‘zgartirilishi",
+        "correct": false
+      },
+      {
+        "text": "Axborotning barcha foydalanuvchilarga ochiq bo‘lishi",
+        "correct": false
+      },
+      {
+        "text": "Axborotning tizimdan muntazam o‘chirib borilishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "question": "Axborot yaxlitligi qanday holatni ifodalaydi?",
+    "options": [
+      {
+        "text": "Ma’lumotning ruxsatsiz yoki noto‘g‘ri o‘zgartirilmasligini",
+        "correct": true
+      },
+      {
+        "text": "Ma’lumotning faqat bitta xodimga ko‘rsatilishini",
+        "correct": false
+      },
+      {
+        "text": "Ma’lumotning doimiy ravishda nusxalanishini",
+        "correct": false
+      },
+      {
+        "text": "Ma’lumotning internet orqali tarqatilishini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Axborot mavjudligi tushunchasi nimani bildiradi?",
+    "options": [
+      {
+        "text": "Vakolatli foydalanuvchi kerakli vaqtda tizimdan foydalana olishini",
+        "correct": true
+      },
+      {
+        "text": "Barcha ma’lumotlar doimiy ravishda yashirilishini",
+        "correct": false
+      },
+      {
+        "text": "Faqat rahbarning tizimdan foydalanishini",
+        "correct": false
+      },
+      {
+        "text": "Tizimdagi barcha ma’lumotlarning o‘chirilishini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Mehmonxona axborot tizimida mavjudlikni ta’minlashga qaysi vosita xizmat qiladi?",
+    "options": [
+      {
+        "text": "Uzluksiz elektr ta’minoti va zaxira serverlardan foydalanish",
+        "correct": true
+      },
+      {
+        "text": "Barcha tizimlarni ish vaqtida o‘chirib qo‘yish",
+        "correct": false
+      },
+      {
+        "text": "Ma’lumotlarni faqat bitta qurilmada saqlash",
+        "correct": false
+      },
+      {
+        "text": "Internetdan foydalanishni butunlay cheklash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Mehmonxona axborot tizimida maxfiylikni ta’minlashning muhim vositasi qaysi?",
+    "options": [
+      {
+        "text": "Kirish huquqlarini lavozim va vazifalarga muvofiq cheklash",
+        "correct": true
+      },
+      {
+        "text": "Barcha xodimlarga bir xil huquqlarni berish",
+        "correct": false
+      },
+      {
+        "text": "Parollarni barcha xodimlarga umumiy qilish",
+        "correct": false
+      },
+      {
+        "text": "Mehmon ma’lumotlarini ochiq tarmoqqa joylashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "question": "“Eng kam vakolat” tamoyilining asosiy mazmuni nimadan iborat?",
+    "options": [
+      {
+        "text": "Xodim faqat o‘z vazifasi uchun zarur ma’lumotlarga kira oladi",
+        "correct": true
+      },
+      {
+        "text": "Xodim barcha ma’lumotlarni boshqarish huquqiga ega bo‘ladi",
+        "correct": false
+      },
+      {
+        "text": "Xodimning tizimdan foydalanishi butunlay taqiqlanadi",
+        "correct": false
+      },
+      {
+        "text": "Xodimga faqat moliyaviy ma’lumotlar ochib beriladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Resepsionist uchun qaysi ma’lumotga kirish zarur bo‘lishi mumkin?",
+    "options": [
+      {
+        "text": "Mehmonning F.I.Sh., xona va kelish-ketish ma’lumotlari",
+        "correct": true
+      },
+      {
+        "text": "Barcha xodimlarning ish haqi va bank rekvizitlari",
+        "correct": false
+      },
+      {
+        "text": "Tizim administratorining barcha texnik parollari",
+        "correct": false
+      },
+      {
+        "text": "Boshqa mehmonlarning barcha moliyaviy ma’lumotlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "question": "Buxgalter uchun qaysi ma’lumotlardan foydalanish zarur bo‘lishi mumkin?",
+    "options": [
+      {
+        "text": "To‘lov va hisob-kitobga oid ma’lumotlar",
+        "correct": true
+      },
+      {
+        "text": "Barcha mehmonlarning biometrik ma’lumotlari",
+        "correct": false
+      },
+      {
+        "text": "Server administratorining barcha parollari",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlarning barcha shaxsiy yozishmalari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Axborot yaxlitligini nazorat qilishda audit jurnallarining vazifasi nima?",
+    "options": [
+      {
+        "text": "Kim, qachon va qanday o‘zgarish qilganini qayd etish",
+        "correct": true
+      },
+      {
+        "text": "Barcha ma’lumotlarni avtomatik ravishda o‘chirish",
+        "correct": false
+      },
+      {
+        "text": "Mehmonlarning bronlarini reklama uchun tarqatish",
+        "correct": false
+      },
+      {
+        "text": "Tizimdagi barcha foydalanuvchilarni bloklash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Versiyalar nazorati axborot yaxlitligini ta’minlashda qanday imkoniyat beradi?",
+    "options": [
+      {
+        "text": "Oldingi ma’lumot holatini saqlash va zarur bo‘lsa tiklash",
+        "correct": true
+      },
+      {
+        "text": "Barcha eski ma’lumotlarni qayta tiklab bo‘lmaydigan qilish",
+        "correct": false
+      },
+      {
+        "text": "Tizimga yangi foydalanuvchilarni avtomatik qo‘shish",
+        "correct": false
+      },
+      {
+        "text": "Mehmon ma’lumotlarini barcha xodimlarga ko‘rsatish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Mehmonxona PMS tizimida narxning 500 dollardan 50 dollarga ruxsatsiz o‘zgartirilishi",
+    "options": [
+      {
+        "text": "Axborot yaxlitligining buzilishi",
+        "correct": true
+      },
+      {
+        "text": "Axborot mavjudligining oshishi",
+        "correct": false
+      },
+      {
+        "text": "Axborot maxfiyligining kuchayishi",
+        "correct": false
+      },
+      {
+        "text": "Tizim samaradorligining avtomatik oshishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Axborot o‘zgarishlarini elektron tasdiqlashning vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Muhim o‘zgarishni mas’ul shaxs tomonidan tasdiqlashni ta’minlash",
+        "correct": true
+      },
+      {
+        "text": "Barcha o‘zgarishlarni foydalanuvchisiz amalga oshirish",
+        "correct": false
+      },
+      {
+        "text": "Tizimdagi ma’lumotlarni muntazam ravishda o‘chirish",
+        "correct": false
+      },
+      {
+        "text": "D) Barcha xodimlarga administrator huquqini berish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Mehmonxona tizimida server ishdan chiqsa, qaysi CIA elementi eng bevosita zarar ko‘radi?",
+    "options": [
+      {
+        "text": "Mavjudlik",
+        "correct": true
+      },
+      {
+        "text": "Maxfiylik",
+        "correct": false
+      },
+      {
+        "text": "Yaxlitlik",
+        "correct": false
+      },
+      {
+        "text": "Identifikatsiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Barcha ma’lumotlarni kuchli shifrlab, ulardan hech kim foydalana olmasa qanday muammo",
+    "options": [
+      {
+        "text": "Mavjudlikning pasayishi",
+        "correct": true
+      },
+      {
+        "text": "Maxfiylikning pasayishi",
+        "correct": false
+      },
+      {
+        "text": "Yaxlitlikning avtomatik oshishi",
+        "correct": false
+      },
+      {
+        "text": "Ma’lumotlar aniqligining oshishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Ransomware turidagi zararli dastur qanday xavf tug‘diradi?",
+    "options": [
+      {
+        "text": "Ma’lumotlarni shifrlab, tizim faoliyatini izdan chiqarishi mumkin",
+        "correct": true
+      },
+      {
+        "text": "Mehmonlar uchun xizmatlarni avtomatik yaxshilashi mumkin",
+        "correct": false
+      },
+      {
+        "text": "Serverlarning elektr sarfini kamaytirishi mumkin",
+        "correct": false
+      },
+      {
+        "text": "Tizimdagi ma’lumotlarni avtomatik tekshirishi mumkin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "question": "Riskni boshqarish jarayonining birinchi bosqichi qaysi?",
+    "options": [
+      {
+        "text": "Aktivlarni aniqlash",
+        "correct": true
+      },
+      {
+        "text": "Nazorat choralarini bekor qilish",
+        "correct": false
+      },
+      {
+        "text": "Muammoni yashirish",
+        "correct": false
+      },
+      {
+        "text": "Auditni to‘xtatish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Risklarni boshqarishning zamonaviy yondashuvida risk aniqlangandan keyin nima amalga",
+    "options": [
+      {
+        "text": "Tahdid va zaifliklar baholanadi",
+        "correct": true
+      },
+      {
+        "text": "Barcha nazorat vositalari o‘chirib qo‘yiladi",
+        "correct": false
+      },
+      {
+        "text": "Tizimdagi barcha ma’lumotlar tarqatiladi",
+        "correct": false
+      },
+      {
+        "text": "Audit jarayoni butunlay to‘xtatiladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "question": "ISO/IEC 27001:2022 standartining asosiy maqsadi nima?",
+    "options": [
+      {
+        "text": "Axborot xavfsizligini boshqarish tizimini yaratish va takomillashtirish",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxonalarning xona narxlarini belgilash",
+        "correct": false
+      },
+      {
+        "text": "Turistik marshrutlarning uzunligini aniqlash",
+        "correct": false
+      },
+      {
+        "text": "Restoran menyusining tarkibini standartlashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "question": "ISO/IEC 27001 axborot xavfsizligini boshqarishda qaysi yondashuvga asoslanadi?",
+    "options": [
+      {
+        "text": "Risklarga asoslangan yondashuvga",
+        "correct": true
+      },
+      {
+        "text": "Faqat reklama faoliyatiga asoslangan yondashuvga",
+        "correct": false
+      },
+      {
+        "text": "Faqat moliyaviy hisobotlarga asoslangan yondashuvga",
+        "correct": false
+      },
+      {
+        "text": "Faqat mijozlar soniga asoslangan yondashuvga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "question": "ISO/IEC 27001 bo‘yicha ISMS nimani anglatadi?",
+    "options": [
+      {
+        "text": "Axborot xavfsizligini boshqarish tizimini",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxona marketingini boshqarish tizimini",
+        "correct": false
+      },
+      {
+        "text": "Turistik transportni boshqarish tizimini",
+        "correct": false
+      },
+      {
+        "text": "Restoran xizmatlarini baholash tizimini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "question": "ISO/IEC 27002:2022 standartining asosiy vazifasi nimadan iborat?",
+    "options": [
+      {
+        "text": "Axborot xavfsizligi nazorat choralarini amalda qo‘llash bo‘yicha yo‘riqnoma berish",
+        "correct": true
+      },
+      {
+        "text": "Axborot xavfsizligi bo‘yicha faqat sertifikat berish",
+        "correct": false
+      },
+      {
+        "text": "Mehmonxona xizmatlari narxlarini belgilash",
+        "correct": false
+      },
+      {
+        "text": "Turistlar oqimini statistik jihatdan hisoblash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "question": "ISO/IEC 27701:2025 standartining asosiy yo‘nalishi nima?",
+    "options": [
+      {
+        "text": "Shaxsiy ma’lumotlarni boshqarish va maxfiylikni ta’minlash",
+        "correct": true
+      },
+      {
+        "text": "Mehmonxona qurilish loyihalarini boshqarish",
+        "correct": false
+      },
+      {
+        "text": "Turistik mahsulot narxlarini belgilash",
+        "correct": false
+      },
+      {
+        "text": "Restoranlarda oziq-ovqat xavfsizligini boshqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "question": "O‘zbekiston Respublikasining “Shaxsga doir ma’lumotlar to‘g‘risida”gi Qonuni qachon",
+    "options": [
+      {
+        "text": "2019-yil 2-iyulda",
+        "correct": true
+      },
+      {
+        "text": "2020-yil 1-yanvarda",
+        "correct": false
+      },
+      {
+        "text": "2021-yil 15-mayda",
+        "correct": false
+      },
+      {
+        "text": "2022-yil 3-noyabrda",
+        "correct": false
+      }
+    ]
+  }
+]
